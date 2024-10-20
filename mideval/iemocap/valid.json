@@ -1,0 +1,2590 @@
+[
+    {
+        "input": "What time is it?  They're supposed to run around midnight.  This is great isn't it?  Look at this night we've got here.  It couldn't be better.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Fine.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Is that, is that-that's just foam isn't it?  I can't even tell:",
+        "target": "excited"
+    },
+    {
+        "input": "Oh, no you know what I did?  I forgot my flashlight.  How could I be so stupid I forgot my flashlight.:",
+        "target": "fear"
+    },
+    {
+        "input": "The flashlight, the silver one.  There's only one isn't there?:",
+        "target": "fear"
+    },
+    {
+        "input": "It's not yours.:",
+        "target": "fear"
+    },
+    {
+        "input": "Well sure.:",
+        "target": "fear"
+    },
+    {
+        "input": "No of course our flashlight, yours and mine, mi flashlight es su flashlight naturally.  How could we not think to bring it?:",
+        "target": "fear"
+    },
+    {
+        "input": "I hope the moon stays out.  I wonder do they always run during a full moon.  I can't remember if it was full last year.  Remember?:",
+        "target": "excited"
+    },
+    {
+        "input": "Are you cold?  Do you want my jacket?  We should have brought the blanket, our blanket.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ah, this is great, isn't it?  I didn't even think to bring a six-pack.  A six-pack would be just the ticket right about now.:",
+        "target": "joyful"
+    },
+    {
+        "input": "It's after eleven let's go home.:",
+        "target": "mad"
+    },
+    {
+        "input": "Are you kidding?  We'd miss it.  We just got here.  What's the point of coming down here if we just turn around and go home?:",
+        "target": "fear"
+    },
+    {
+        "input": "There is no point in coming down here.:",
+        "target": "mad"
+    },
+    {
+        "input": "Right.:",
+        "target": "fear"
+    },
+    {
+        "input": "That's my point.:",
+        "target": "fear"
+    },
+    {
+        "input": "That's my point too.:",
+        "target": "neutral"
+    },
+    {
+        "input": "So let's go home.:",
+        "target": "fear"
+    },
+    {
+        "input": "No, no, no.  That's not my point.  My point is is that there's no point in coming down here if we just leave.  Don't you want to see it?:",
+        "target": "fear"
+    },
+    {
+        "input": "Not particularly.:",
+        "target": "fear"
+    },
+    {
+        "input": "I just don't.  It's stupid.:",
+        "target": "mad"
+    },
+    {
+        "input": "Honey this is natural phenomenon.  I mean this only happens once a year.  This is a great opportunity.:",
+        "target": "fear"
+    },
+    {
+        "input": "Think about the people in Kansas.  They'd have to get plane tickets and hotel reservations to come see this.  We're just forty minutes away.  It's too good to pass up.:",
+        "target": "excited"
+    },
+    {
+        "input": "Pass up what?  These little fish swim onto the beach, flop around, and then swim away and then they die.:",
+        "target": "mad"
+    },
+    {
+        "input": "Yeah but that moment on the beach is the highlight of their little lives.  All that flopping around is laying eggs or what do you, spawning or mating something like that.:",
+        "target": "fear"
+    },
+    {
+        "input": "This is the big night for these guys.  Life's last orgy.:",
+        "target": "excited"
+    },
+    {
+        "input": "What are you so excited about?  This isn't a moon landing we're talking about.  It's fish.  It's fish nobody even eats.:",
+        "target": "mad"
+    },
+    {
+        "input": "Yeah, they do.:",
+        "target": "fear"
+    },
+    {
+        "input": "Oh, Augie.:",
+        "target": "fear"
+    },
+    {
+        "input": "Okay but it's fish who do something none of the other fish do:",
+        "target": "fear"
+    },
+    {
+        "input": "like the swallows returning to Capistrano or the lemmings throwing themselves off the cliffs, like that.  There's mystery here and magic:",
+        "target": "excited"
+    },
+    {
+        "input": "a little bit of the unexplainable.  I don't see how you cannot be interested.:",
+        "target": "fear"
+    },
+    {
+        "input": "I'm just not.:",
+        "target": "mad"
+    },
+    {
+        "input": "Yes.:",
+        "target": "mad"
+    },
+    {
+        "input": "I don't get it.  The first time we came here to see it you said it was the best night of your life and last year I remember distinctly you were so excited to get here.  You stubbed your toe rushing me out the door and didn't even notice until we were in the car.:",
+        "target": "fear"
+    },
+    {
+        "input": "We weren't in a good spot.:",
+        "target": "fear"
+    },
+    {
+        "input": "We didn't see them the first time either.:",
+        "target": "mad"
+    },
+    {
+        "input": "We just weren't in a good spot.  This is a much better spot.:",
+        "target": "mad"
+    },
+    {
+        "input": "I've got good instincts for these things.  Look there. What's that.  Is that?  Is that, is that-no it's just seaweed isn't it.:",
+        "target": "excited"
+    },
+    {
+        "input": "Ah, man this is great.  I wouldn't miss this for anything.  I mean think about this.  I know you're not interested but just think about this for a minute.:",
+        "target": "excited"
+    },
+    {
+        "input": "Out there someplace there's this huge mass of silver fish heading this way.  They don't know why.  We don't know why.  It wasn't a decision.  They didn't take a vote.:",
+        "target": "excited"
+    },
+    {
+        "input": "No one sent them a map or an invitation.  Just some little instinctual time release firecracker went off in their little bodies and all as one. They turned and formed a line as long as the California coast and started swimming.:",
+        "target": "excited"
+    },
+    {
+        "input": "They're swimming right now as if that's the only thing that matters.:",
+        "target": "excited"
+    },
+    {
+        "input": "It's single mindedness with no mind.  Urgency that's pure urge.:",
+        "target": "excited"
+    },
+    {
+        "input": "They don't know what drives them.  They don't give it a name or ask question.  They just turn as one and start the swim that brings them here to this place:",
+        "target": "excited"
+    },
+    {
+        "input": "where we stand for massive celebration of sex and death.:",
+        "target": "excited"
+    },
+    {
+        "input": "Ah, I'm giving myself goose bumps.  All my hairs are popping up.:",
+        "target": "excited"
+    },
+    {
+        "input": "That's the wind.:",
+        "target": "fear"
+    },
+    {
+        "input": "About what?:",
+        "target": "mad"
+    },
+    {
+        "input": "It's ridiculous.:",
+        "target": "mad"
+    },
+    {
+        "input": "So, how's it going?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, you got what?  Where?:",
+        "target": "excited"
+    },
+    {
+        "input": "I got into U.S.C.:",
+        "target": "excited"
+    },
+    {
+        "input": "Oh, no way.:",
+        "target": "excited"
+    },
+    {
+        "input": "Yeah, I'm so excited.  So I'm gonna say--:",
+        "target": "excited"
+    },
+    {
+        "input": "Are you gonna go? you gonna-:",
+        "target": "excited"
+    },
+    {
+        "input": "Yeah, I think, I mean because where else would I gonna go?  Like the other places that I applied to I really didn't like that much anyway.:",
+        "target": "excited"
+    },
+    {
+        "input": "So--:",
+        "target": "excited"
+    },
+    {
+        "input": "Wow, that's...:",
+        "target": "excited"
+    },
+    {
+        "input": "...that's first choice, huh? That's so awesome and now look you're gonna be--you're gonna be here. you know:",
+        "target": "excited"
+    },
+    {
+        "input": "Yeah, I know.:",
+        "target": "excited"
+    },
+    {
+        "input": "Absolutely. I'm so excited.:",
+        "target": "excited"
+    },
+    {
+        "input": "I know.  I know. And we'll all get to hang out.  And I'm--even though we'll be at like at different parts of the city, we can still, like...:",
+        "target": "excited"
+    },
+    {
+        "input": "...hang out and, like, have our different lives--And meet each other's friends and stuff.  So, I'm just so glad 'cause they have such a good school:",
+        "target": "excited"
+    },
+    {
+        "input": "Yeah, no, definitely--It's gonna..:",
+        "target": "excited"
+    },
+    {
+        "input": "Yeah.:",
+        "target": "excited"
+    },
+    {
+        "input": "and like-- The football team--And like all the-...you- what I mean, like...:",
+        "target": "excited"
+    },
+    {
+        "input": "Yeah:",
+        "target": "excited"
+    },
+    {
+        "input": "Fight on.:",
+        "target": "excited"
+    },
+    {
+        "input": "You can walk somewhere and be anywhere in the country and be like, oh, yeah, I am at U.S.C.:",
+        "target": "excited"
+    },
+    {
+        "input": "And you know what, you know what I mean, like it's recognizable rather than just being like I went some random school. It's like people really know what you...:",
+        "target": "excited"
+    },
+    {
+        "input": "[LAUGHTER]:",
+        "target": "excited"
+    },
+    {
+        "input": "Wow. That's cool.:",
+        "target": "excited"
+    },
+    {
+        "input": "...like, they feel like--I feel like it's going to be so like accomplished.  Do you know what I mean?:",
+        "target": "excited"
+    },
+    {
+        "input": "Like it has some prestige. so:",
+        "target": "excited"
+    },
+    {
+        "input": "Yeah, I mean there's all the money stuff and my mom's helping me with the financial aid and stuff.  But, it'll be fine--:",
+        "target": "excited"
+    },
+    {
+        "input": "Like, now that I'm accepted, it's just, like, such a huge load off my mind.:",
+        "target": "excited"
+    },
+    {
+        "input": "I don't mind worrying about all the paperwork.  You know--:",
+        "target": "excited"
+    },
+    {
+        "input": "So...:",
+        "target": "neutral"
+    },
+    {
+        "input": "Because, I don't have to like make that decision anymore.  I don't have to try and decide, like, what the bad school I'm going to go to is. you know:",
+        "target": "excited"
+    },
+    {
+        "input": "Right.  Right.  Right. Oh, man, then you're going to have to do orientation, I guess.:",
+        "target": "excited"
+    },
+    {
+        "input": "I know. I know.  I think you go and you like stay for a couple of days and you meet people and--And they'll give you like a tour--And show you everything.  Oh, man, I'm just so--I'm so excited.:",
+        "target": "excited"
+    },
+    {
+        "input": "That'll be awesome.:",
+        "target": "joyful"
+    },
+    {
+        "input": "I mean because you went to the campus before, right?:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yeah, oh totally.  It's a beautiful campus.  It's gonna be really nice.  Um, and everyone is friendly and like there's ivy on all the walls.  Oh, it's just so--it's so like collegiate.:",
+        "target": "excited"
+    },
+    {
+        "input": "You know what I mean?  Like, it's like exactly what I want.:",
+        "target": "excited"
+    },
+    {
+        "input": "Well, you know, I've thought about it but they have so many things that I might--Like try some things out first...:",
+        "target": "excited"
+    },
+    {
+        "input": "...because also on the list of their, um, like G.E.'s or whatever, you have a lot of choices within every single one.  So you can, like, try things out and not just be like, oh, I have to take math, oh, I have to take this.  You know what I mean?:",
+        "target": "excited"
+    },
+    {
+        "input": "So, um, so I don't know.:",
+        "target": "excited"
+    },
+    {
+        "input": "I mean I'm gonna take a bunch of stuff and see.:",
+        "target": "excited"
+    },
+    {
+        "input": "Oh man.:",
+        "target": "excited"
+    },
+    {
+        "input": "I- They have like--they just have so many like prestigious like this school is top ten and like the departments within it, you know what I mean.:",
+        "target": "excited"
+    },
+    {
+        "input": "I know, I get to be one of those now--I'll like walk around and be like a U.S.C..  You know what I mean.:",
+        "target": "excited"
+    },
+    {
+        "input": "Ahh. Yeah. [GARBAGE]:",
+        "target": "excited"
+    },
+    {
+        "input": "You'll be like are you a fan or a student you know? Student. [LAUGHTER] Oh man, that's awesome.:",
+        "target": "excited"
+    },
+    {
+        "input": "And you'll be like...:",
+        "target": "excited"
+    },
+    {
+        "input": "Student. I'm a student. Yes I am, Thank you very much.:",
+        "target": "excited"
+    },
+    {
+        "input": "[BREATHING]:",
+        "target": "excited"
+    },
+    {
+        "input": "A U.S.C. graduate now. You're set.:",
+        "target": "excited"
+    },
+    {
+        "input": "I know.  I'm excited.:",
+        "target": "excited"
+    },
+    {
+        "input": "Well, that'll take a while. [GARBAGE]:",
+        "target": "excited"
+    },
+    {
+        "input": "That's going to be a lot of work.:",
+        "target": "excited"
+    },
+    {
+        "input": "But, it'll be fine, I mean.  I'm so excited. It's going to be so fun.:",
+        "target": "excited"
+    },
+    {
+        "input": "I know, and I mean the area's not great, but like the school makes up for it. It'll be fine. It'll be good.:",
+        "target": "excited"
+    },
+    {
+        "input": "You're getting close to the beach.  I mean geez.:",
+        "target": "excited"
+    },
+    {
+        "input": "I know. I know. So fun.  I can't wait.:",
+        "target": "excited"
+    },
+    {
+        "input": "I will. I will. Thank you.:",
+        "target": "excited"
+    },
+    {
+        "input": "Thanks.:",
+        "target": "excited"
+    },
+    {
+        "input": "Why did he invite her here?:",
+        "target": "mad"
+    },
+    {
+        "input": "She's been in New York three and half years why all of a sudden-:",
+        "target": "mad"
+    },
+    {
+        "input": "Well, maybe he just wanted to see her again.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Nobody comes seven hundred miles just to see.:",
+        "target": "mad"
+    },
+    {
+        "input": "What do you mean? He lived next door to the girl all his life, why wouldn't he want to see her again?:",
+        "target": "fear"
+    },
+    {
+        "input": "Don't look at me like that, he didn't tell me any more than he told you.:",
+        "target": "fear"
+    },
+    {
+        "input": "He's not going to marry her.:",
+        "target": "mad"
+    },
+    {
+        "input": "How do you know he's even thinking of it?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, so what?:",
+        "target": "neutral"
+    },
+    {
+        "input": "What's going on here Joe?:",
+        "target": "mad"
+    },
+    {
+        "input": "-She's not his girl Joe; she knows she's not.:",
+        "target": "mad"
+    },
+    {
+        "input": "You can't read her mind.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Then why is she still single, I mean New York is full of men, why isn't she married? Probably a hundred people told her she's crazy but she's waited.:",
+        "target": "fear"
+    },
+    {
+        "input": "How do you know why she has waited?:",
+        "target": "fear"
+    },
+    {
+        "input": "She knows what I know, that's why. She's faithful as a rock. In my worst moments I think of her waiting and I know again that I'm right.:",
+        "target": "fear"
+    },
+    {
+        "input": "Look it's a nice day, what are we arguing for?:",
+        "target": "fear"
+    },
+    {
+        "input": "Nobody in this house dares take her faith away Joe. Strangers might, but not his father, not his brother.:",
+        "target": "fear"
+    },
+    {
+        "input": "What do you want me to do about it?:",
+        "target": "fear"
+    },
+    {
+        "input": "I want you to act like he's coming back, both of you. Don't you think I haven't noticed since he invited her, I won't stand for any nonsense:",
+        "target": "mad"
+    },
+    {
+        "input": "But Kate:",
+        "target": "fear"
+    },
+    {
+        "input": "Because if he's not coming back, I'll kill myself. And laugh -- laugh at me but:",
+        "target": "fear"
+    },
+    {
+        "input": "Calm yourself.:",
+        "target": "fear"
+    },
+    {
+        "input": "I need you to believe with me; I can't stand all alone.:",
+        "target": "sad"
+    },
+    {
+        "input": "Calm yourself.:",
+        "target": "fear"
+    },
+    {
+        "input": "Even last week there was a man who showed up in Detroit missing longer than Larry, you read it yourself.:",
+        "target": "fear"
+    },
+    {
+        "input": "All right. All right. Calm yourself.:",
+        "target": "fear"
+    },
+    {
+        "input": "Just you above all need to believe.:",
+        "target": "fear"
+    },
+    {
+        "input": "Don't stop believing.:",
+        "target": "fear"
+    },
+    {
+        "input": "What does that mean, me above all?:",
+        "target": "mad"
+    },
+    {
+        "input": "Look at you -- look at you shaking.:",
+        "target": "mad"
+    },
+    {
+        "input": "I can't help it.:",
+        "target": "fear"
+    },
+    {
+        "input": "What have I got to hide? What the hell is the matter with you, Kate?:",
+        "target": "fear"
+    },
+    {
+        "input": "Hey sweetie.:",
+        "target": "sad"
+    },
+    {
+        "input": "Hey.:",
+        "target": "sad"
+    },
+    {
+        "input": "Um.:",
+        "target": "joyful"
+    },
+    {
+        "input": "How's it- going?  Oh I'm so tired.  Oh, I just woke up. Mmm.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Uh, -Um:",
+        "target": "sad"
+    },
+    {
+        "input": "Why the sad face?:",
+        "target": "joyful"
+    },
+    {
+        "input": "they need me out there sooner than I thought:",
+        "target": "sad"
+    },
+    {
+        "input": "They want to deploy me next week.:",
+        "target": "sad"
+    },
+    {
+        "input": "For--:",
+        "target": "sad"
+    },
+    {
+        "input": "They said anywhere from two to three years.:",
+        "target": "sad"
+    },
+    {
+        "input": "Honey--:",
+        "target": "fear"
+    },
+    {
+        "input": "--need me on the specialist honey.:",
+        "target": "fear"
+    },
+    {
+        "input": "You can't.  We need you.  I need you.:",
+        "target": "fear"
+    },
+    {
+        "input": "I don't want to go but,-:",
+        "target": "fear"
+    },
+    {
+        "input": "I don't care about the money.:",
+        "target": "fear"
+    },
+    {
+        "input": "but they said they'd increase my pay by triple-there promotion.:",
+        "target": "fear"
+    },
+    {
+        "input": "No.:",
+        "target": "sad"
+    },
+    {
+        "input": "Do this whole thing by myself?:",
+        "target": "sad"
+    },
+    {
+        "input": "Honey you're not going to be by yourself--:",
+        "target": "sad"
+    },
+    {
+        "input": "We'll have internet set up, we'll get web cameras and everything.  My whole family's here too.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Carry her for nine months and then yes.:",
+        "target": "sad"
+    },
+    {
+        "input": "It's not the same thing.  It's not like having you here.:",
+        "target": "sad"
+    },
+    {
+        "input": "I can't do this.:",
+        "target": "sad"
+    },
+    {
+        "input": "You can do it.  Alright?  You can, you can be strong, you can be strong for both of us alright?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I'm sick of being strong-- --for us.:",
+        "target": "sad"
+    },
+    {
+        "input": "I don't know what to do.:",
+        "target": "sad"
+    },
+    {
+        "input": "I don't want to - I don't- I don't want to go.:",
+        "target": "fear"
+    },
+    {
+        "input": "What am I supposed to do?:",
+        "target": "fear"
+    },
+    {
+        "input": "You can say no?:",
+        "target": "fear"
+    },
+    {
+        "input": "You know I can't say no.:",
+        "target": "sad"
+    },
+    {
+        "input": "You could.  You really could.  You could-- --get into another line of work.  I could start working after Anna's born?:",
+        "target": "fear"
+    },
+    {
+        "input": "The last guy who said no was fired.:",
+        "target": "fear"
+    },
+    {
+        "input": "I put in fifteen years in this job.:",
+        "target": "fear"
+    },
+    {
+        "input": "I know.:",
+        "target": "fear"
+    },
+    {
+        "input": "I'm so close.  Five more years and I retire-:",
+        "target": "fear"
+    },
+    {
+        "input": "and we'll have that happy life.:",
+        "target": "fear"
+    },
+    {
+        "input": "and watch our child grow, see her take her first steps, her first words.:",
+        "target": "sad"
+    },
+    {
+        "input": "Honey after a year I can be back.:",
+        "target": "sad"
+    },
+    {
+        "input": "You said two years.:",
+        "target": "sad"
+    },
+    {
+        "input": "They want me there two years but I could probably get:",
+        "target": "sad"
+    },
+    {
+        "input": "maybe get some vacation-- --once it quiets down there.:",
+        "target": "sad"
+    },
+    {
+        "input": "A whole year? --We're not talking about like a couple months here.  I mean this is a whole year.:",
+        "target": "sad"
+    },
+    {
+        "input": "I know.  I know.  But they really need some good guys there.:",
+        "target": "sad"
+    },
+    {
+        "input": "What could happen in a year?:",
+        "target": "sad"
+    },
+    {
+        "input": "And this isn't the first time you know?  I mean you always...sending you off to different places and...:",
+        "target": "sad"
+    },
+    {
+        "input": "Well that's the kind of work I'm in honey.:",
+        "target": "sad"
+    },
+    {
+        "input": "I don't know if that's how I want to live my life.:",
+        "target": "sad"
+    },
+    {
+        "input": "It's just going to be--it's going to go faster than you think.:",
+        "target": "sad"
+    },
+    {
+        "input": "Joe I'm serious I don't want to have to have a little girl to tell...asking every day where's daddy, where's daddy and have to tell her that he's away--:",
+        "target": "sad"
+    },
+    {
+        "input": "far away and he won't be here.:",
+        "target": "sad"
+    },
+    {
+        "input": "You tell her-- [BREATHING]:",
+        "target": "sad"
+    },
+    {
+        "input": "I'm done.  I can't honey.:",
+        "target": "sad"
+    },
+    {
+        "input": "What do you mean?:",
+        "target": "sad"
+    },
+    {
+        "input": "It's over.:",
+        "target": "sad"
+    },
+    {
+        "input": "Honey I can't do it anymore.:",
+        "target": "sad"
+    },
+    {
+        "input": "I need you here.  Anna needs you.:",
+        "target": "sad"
+    },
+    {
+        "input": "So I have--you want me to choose between you guys or my career?:",
+        "target": "fear"
+    },
+    {
+        "input": "yeah.:",
+        "target": "sad"
+    },
+    {
+        "input": "What am I going to do?:",
+        "target": "fear"
+    },
+    {
+        "input": "Priorities honey, priorities.:",
+        "target": "fear"
+    },
+    {
+        "input": "I want to--what am I going to do if I leave this job?:",
+        "target": "fear"
+    },
+    {
+        "input": "You're smart.  You could go back to school--:",
+        "target": "fear"
+    },
+    {
+        "input": "finish your Master's that you were started never finished.:",
+        "target": "fear"
+    },
+    {
+        "input": "Fine.  I'll see if I can talk to them.:",
+        "target": "fear"
+    },
+    {
+        "input": "Hello.  This is Viacom Services.  How can I help you?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hello?  God finally somebody, look, this is ridiculous.  I've been waiting online for like a half an hour now.:",
+        "target": "fear"
+    },
+    {
+        "input": "I'm sorry ma'am, what can I help you with?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Look my, my phone isn't working.  I don't understand what's going on.  I am trying to call out.  I'm not receiving any calls:",
+        "target": "fear"
+    },
+    {
+        "input": "and I need assistance with my...not only is my work phone, it's my home phone and look,:",
+        "target": "fear"
+    },
+    {
+        "input": "this is my business.  This is how I make money is through my phone.  It needs to be working.  Can you please help me?:",
+        "target": "fear"
+    },
+    {
+        "input": "Okay.  Can you give me the last four digits of your social security number so I can verify who I'm speaking with?:",
+        "target": "neutral"
+    },
+    {
+        "input": "two two six six.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.  And your name is?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Olivia.:",
+        "target": "fear"
+    },
+    {
+        "input": "Olivia. Um. Okay.  So how long has this problem been?:",
+        "target": "neutral"
+    },
+    {
+        "input": "This has been going on for the past two weeks.  I called every single day.  Nobody is helping me.  You guys tell me the same thing over and over, call again, call again, call again--:",
+        "target": "fear"
+    },
+    {
+        "input": "So what exactly is the problem?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I don't, I don't know what the problem is.  That's what I want you guys to...why is my service not turned on?  And I paid my bills on time.  I don't understand.:",
+        "target": "fear"
+    },
+    {
+        "input": "Um- I think part of it has to do with the network being down.  It's been having some trouble the last few weeks--:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.  Well that is, that is fine and all.  I don't care.  I really don't care because I want my phone to work that's all.:",
+        "target": "fear"
+    },
+    {
+        "input": "That is I am paying you guys for service and I'm not getting any service.  I get, I get just dropped calls all the time and now it's completely not working at all.  I can't even call out, nine one one probably wouldn't even work.:",
+        "target": "fear"
+    },
+    {
+        "input": "I understand--we're not-:",
+        "target": "neutral"
+    },
+    {
+        "input": "No.  Okay.  We're not charging you for any of these months.  We're going to give you three months free.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well you better.  You better give me a whole freaking new phone that's what you better do.:",
+        "target": "fear"
+    },
+    {
+        "input": "We can give you a new phone--:",
+        "target": "neutral"
+    },
+    {
+        "input": "I want a camera phone actually.:",
+        "target": "fear"
+    },
+    {
+        "input": "We can do that.  We can do that.  You just have to sign a one-year contract though with the--:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, no, no...  I'm done with these contract business because this is what can happen.:",
+        "target": "fear"
+    },
+    {
+        "input": "You sign the contract and then down the line the phone doesn't work and you're stuck, you can't go to a new...no.  No contracts for me.  You give me a new phone.:",
+        "target": "mad"
+    },
+    {
+        "input": "Besides, it's sort of out of hands at the moment----The whole electrical power outage.:",
+        "target": "fear"
+    },
+    {
+        "input": "I want to talk to a supervisor:",
+        "target": "mad"
+    },
+    {
+        "input": "I would like to talk to your supervisor.  Obviously you're incompetent and don't understand what I'm asking.:",
+        "target": "mad"
+    },
+    {
+        "input": "Um- Let me connect you to my supervisor.  Actually, he's out right now so I'm supervisor until he comes back. Um-:",
+        "target": "neutral"
+    },
+    {
+        "input": "What?:",
+        "target": "fear"
+    },
+    {
+        "input": "So you could----speak with me some more, you could call back later on maybe.:",
+        "target": "neutral"
+    },
+    {
+        "input": "That's ridiculous.  You know?:",
+        "target": "fear"
+    },
+    {
+        "input": "No I don't want to call back, you put me on hold for like hours and hours----and it's money, money, money, money and out of my pocket, out of my pocket--:",
+        "target": "fear"
+    },
+    {
+        "input": "I didn't put you on hold.:",
+        "target": "fear"
+    },
+    {
+        "input": "There are a lot of people calling us having problems.  Every phone company is having the same problems ma'am:",
+        "target": "fear"
+    },
+    {
+        "input": "Every phone...every single phone company?:",
+        "target": "fear"
+    },
+    {
+        "input": "Mmm hmmm.  Mmm hmmm.  The power outages, everything, hurricane Katrina. Everything's really messed up.:",
+        "target": "neutral"
+    },
+    {
+        "input": "This is ridiculous.Well what are we supposed to do?  We starve then because I can't use my phone cause:",
+        "target": "mad"
+    },
+    {
+        "input": "I am a realtor and this is my business.  People are calling me all the time but you know, and I don't have a land line.  I can't afford to have a land line:",
+        "target": "mad"
+    },
+    {
+        "input": "don't you-:",
+        "target": "neutral"
+    },
+    {
+        "input": "I'm really sorry ma'am.  There's not----a lot we can do for it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "That you better be sorry.:",
+        "target": "mad"
+    },
+    {
+        "input": "Well you're not helping me at all.  God this is so frustrating.:",
+        "target": "fear"
+    },
+    {
+        "input": "What I can do for you, if you want to make a call right now I could contact you through our computer.  I can call through my phone and you can speak through me.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What?  No.  That's way too complicated.  Look--:",
+        "target": "fear"
+    },
+    {
+        "input": "you need to fix my phone.  I don't care what you have to do--:",
+        "target": "fear"
+    },
+    {
+        "input": "I'm sorry it has to do with an electrical power outage and stuff--:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, okay I'm going to give you a free phone card that you can use at any payphone and that's on us. Okay?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah yeah, woman going out in South Central on the payphone at night.  Oh that's real safe.:",
+        "target": "fear"
+    },
+    {
+        "input": "I'm, I'm sorry you chose to live there um--:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, no, no.  I didn't choose to live here.  I work there.  Okay?  Yeah. work work work:",
+        "target": "fear"
+    },
+    {
+        "input": "Well I'm sure maybe there's a phone at work you could use.:",
+        "target": "neutral"
+    },
+    {
+        "input": "We can't call out.  We can't make out-- line.  I don't work, I work at another office.:",
+        "target": "fear"
+    },
+    {
+        "input": "A law firm.  Thank you very much.:",
+        "target": "fear"
+    },
+    {
+        "input": "All right um--:",
+        "target": "neutral"
+    },
+    {
+        "input": "I work out of my home as a realtor and because I don't have a land line, I need a phone and because of now I don't have one I don't know what to do.  And you're not helping me at all.:",
+        "target": "fear"
+    },
+    {
+        "input": "In fact, give me your name sir, what's your name again?:",
+        "target": "fear"
+    },
+    {
+        "input": "My name is Sara.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.  Sara what?:",
+        "target": "fear"
+    },
+    {
+        "input": "Sara Brown.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Sara Brown.  Sara Brown, um- yeah, I'm going to get off the phone with you. And then I'm going to call back and I'm going to give your supervisor your name because you're obviously incompetent to work here.:",
+        "target": "fear"
+    },
+    {
+        "input": "You know maam, we record this conversation so anything you say can be proven in a law of court so keep that in mind.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What are you, what are you a police officer now?  You know, like I'm done, I'm over it.  Goodbye and I hope that you lose your job.:",
+        "target": "fear"
+    },
+    {
+        "input": "Next.:",
+        "target": "mad"
+    },
+    {
+        "input": "Yes, me. Okay, okay here we go.:",
+        "target": "fear"
+    },
+    {
+        "input": "My window is open.:",
+        "target": "mad"
+    },
+    {
+        "input": "Okay, so filled out all these forms  --:",
+        "target": "fear"
+    },
+    {
+        "input": "and I have This form of ID here so...:",
+        "target": "fear"
+    },
+    {
+        "input": "Yes, Jones.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What are you... what's...What are you applying for?:",
+        "target": "fear"
+    },
+    {
+        "input": "I'm just applying for another ID.:",
+        "target": "fear"
+    },
+    {
+        "input": "Yes.  I'm supposed to have three forms of ID for this.  It's a long story, I'm supposed to have three forms of ID for this other job I really don't get into but I need another...:",
+        "target": "fear"
+    },
+    {
+        "input": "I have it right here, yes.:",
+        "target": "fear"
+    },
+    {
+        "input": "No, I need your ID to give you a second ID.:",
+        "target": "mad"
+    },
+    {
+        "input": "It's really simple if you have a problem with it... Maybe you should--:",
+        "target": "mad"
+    },
+    {
+        "input": "But that's...:",
+        "target": "fear"
+    },
+    {
+        "input": "That's why I'm here, that's why I was waiting in this line.  I need to get another form of ID.:",
+        "target": "fear"
+    },
+    {
+        "input": "No, I don't have a passport.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You have a birth certificate?:",
+        "target": "fear"
+    },
+    {
+        "input": "I don't where it is though, I don't have with me.  Can I get it from somewhere?  I mean...:",
+        "target": "fear"
+    },
+    {
+        "input": "What do you expect me to do?:",
+        "target": "mad"
+    },
+    {
+        "input": "I probably have to go wait another line to get my birth certificate don't I?:",
+        "target": "fear"
+    },
+    {
+        "input": "Probably.:",
+        "target": "mad"
+    },
+    {
+        "input": "You're very helpful.  What's your name?:",
+        "target": "fear"
+    },
+    {
+        "input": "So can you help me or not?:",
+        "target": "fear"
+    },
+    {
+        "input": "I am..I don't..I don't understand what you want.  A driver's license or a California ID.:",
+        "target": "fear"
+    },
+    {
+        "input": "Okay. [BREATHING]:",
+        "target": "fear"
+    },
+    {
+        "input": "I need California ID.:",
+        "target": "fear"
+    },
+    {
+        "input": "On top of these other two forms of ID which I already have.:",
+        "target": "fear"
+    },
+    {
+        "input": "No, I don't have driver's license.:",
+        "target": "fear"
+    },
+    {
+        "input": "Did you even look at the form?  I filled it out all these questions--:",
+        "target": "mad"
+    },
+    {
+        "input": "Don't raise your voice with me.:",
+        "target": "mad"
+    },
+    {
+        "input": "Don't talk to me like I'm a child.:",
+        "target": "mad"
+    },
+    {
+        "input": "Okay.:",
+        "target": "fear"
+    },
+    {
+        "input": "Do you know how long I've been working here? How long have you lived in California?:",
+        "target": "mad"
+    },
+    {
+        "input": "If it makes you stop acting like a child.:",
+        "target": "fear"
+    },
+    {
+        "input": "Maybe you never been to the D.M.V. before, maybe you should get back in line.  You know what?  sit in line again and if you get my number ask for different one.:",
+        "target": "mad"
+    },
+    {
+        "input": "I am not...I'm not getting to back that line.:",
+        "target": "mad"
+    },
+    {
+        "input": "Okay, okay let's keep our voices down, okay?  I didn't come here to get in yelling match.:",
+        "target": "fear"
+    },
+    {
+        "input": "I did not come in here to get in a yelling match with you, all right?:",
+        "target": "fear"
+    },
+    {
+        "input": "Uh huh.  I didn't come here get in yelling match either.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Just try and help me.:",
+        "target": "fear"
+    },
+    {
+        "input": "They don't pay me enough to deal people like you.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Why?:",
+        "target": "mad"
+    },
+    {
+        "input": "Why, because I'm sick of talking to you.:",
+        "target": "mad"
+    },
+    {
+        "input": "'Cause you're obviously not talking to me, you're just yelling at me, berating me and telling me I can't fill out forms right.:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh, no honey. And you're going to miss the Christmas card too. It's a shame. It's going to be a good, nice picture.:",
+        "target": "fear"
+    },
+    {
+        "input": "Hey, what's up?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Guess what came today?:",
+        "target": "excited"
+    },
+    {
+        "input": "What?:",
+        "target": "excited"
+    },
+    {
+        "input": "My acceptance letter.:",
+        "target": "excited"
+    },
+    {
+        "input": "From U.S.C..:",
+        "target": "excited"
+    },
+    {
+        "input": "Yes, I am.:",
+        "target": "excited"
+    },
+    {
+        "input": "Well yeah, that's the general idea. [LAUGHTER]:",
+        "target": "excited"
+    },
+    {
+        "input": "That's awesome.  Congratulations.:",
+        "target": "excited"
+    },
+    {
+        "input": "Big bad acceptance packet with all the information.  I'm going to U.S.C..:",
+        "target": "excited"
+    },
+    {
+        "input": "That's amazing.  Wow.:",
+        "target": "excited"
+    },
+    {
+        "input": "I know. [LAUGHTER]:",
+        "target": "excited"
+    },
+    {
+        "input": "[LAUGHTER] Yeah, uh. No.:",
+        "target": "excited"
+    },
+    {
+        "input": "[LAUGHTER] It's safe around there.:",
+        "target": "excited"
+    },
+    {
+        "input": "The campus is beautiful. I'm so excited.:",
+        "target": "excited"
+    },
+    {
+        "input": "I know but you should get like a taser or something.  I mean walking around the campus at night-:",
+        "target": "neutral"
+    },
+    {
+        "input": "Do you want to buy me some mace for my, you know, going away present?:",
+        "target": "excited"
+    },
+    {
+        "input": "There we go.  Perfect.:",
+        "target": "excited"
+    },
+    {
+        "input": "And a taser.  Excellent.  Just make sure it's a big knife.:",
+        "target": "excited"
+    },
+    {
+        "input": "I don't want any of those little puny ones.:",
+        "target": "excited"
+    },
+    {
+        "input": "So, um- so what are you going to- what are you going to major in?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well I was thinking maybe underwater basket weaving.:",
+        "target": "excited"
+    },
+    {
+        "input": "U.S.C. has a major in that, right.:",
+        "target": "excited"
+    },
+    {
+        "input": "They have - U.S.C. has everything because U.S.C. is the best school ever.:",
+        "target": "excited"
+    },
+    {
+        "input": "they have that as a major?:",
+        "target": "neutral"
+    },
+    {
+        "input": "That's ridiculous.  I don't believe that.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.  Well I'm lying but-:",
+        "target": "excited"
+    },
+    {
+        "input": "Seriously, what's your major?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, I haven't decided yet.  I want to try some things out.:",
+        "target": "excited"
+    },
+    {
+        "input": "So you're undecided?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hey, that's cool.:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, no.  It's totally cool.  I mean, like, this friend of mine he was- he's been undecided now for, like, the past like eleven years of his life.:",
+        "target": "neutral"
+    },
+    {
+        "input": "okay.  Well I'm not going to be undecided forever. [LAUGHTER]:",
+        "target": "excited"
+    },
+    {
+        "input": "Uh, well-:",
+        "target": "neutral"
+    },
+    {
+        "input": "And it's so close so you can come visit me all the time.:",
+        "target": "excited"
+    },
+    {
+        "input": "You- you- you'll find.:",
+        "target": "neutral"
+    },
+    {
+        "input": "So this works out perfectly.  Because I was worried if I didn't get in to U.S.C., then I would have to go somewhere far away and then-:",
+        "target": "excited"
+    },
+    {
+        "input": "You'd have to, like go somewhere else, and, you know, we would be apart, and that would suck.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Everything worked out perfectly.:",
+        "target": "excited"
+    },
+    {
+        "input": "That's awesome.:",
+        "target": "excited"
+    },
+    {
+        "input": "I know.  We should have a party.:",
+        "target": "excited"
+    },
+    {
+        "input": "An I got accepted to U.S.C. party.:",
+        "target": "excited"
+    },
+    {
+        "input": "No.  An I got accepted to U.S.C. party. [LAUGHTER]:",
+        "target": "excited"
+    },
+    {
+        "input": "Oh, that's right. Okay, I see. Right, right, right.:",
+        "target": "neutral"
+    },
+    {
+        "input": "A party celebrating your acceptance.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Right.  Now you're with me.:",
+        "target": "excited"
+    },
+    {
+        "input": "That's cool.:",
+        "target": "neutral"
+    },
+    {
+        "input": "That is why I got accepted.:",
+        "target": "excited"
+    },
+    {
+        "input": "Well, that's really cool that you're going to be staying in the same city and everything. so umm:",
+        "target": "excited"
+    },
+    {
+        "input": "I know.:",
+        "target": "excited"
+    },
+    {
+        "input": "I don't know are you, like, I don't know.  Are you, like, available or anything?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well I mean I don't know.  It's like you know I kind of had a crush on you throughout high school and, like:",
+        "target": "excited"
+    },
+    {
+        "input": "I don't know I just thought that, you know, maybe we could, you know, I don't know.  It's like, you know, just test the waters anyway.  I don't see what the problem is.:",
+        "target": "excited"
+    },
+    {
+        "input": "What- what did you have in mind?:",
+        "target": "excited"
+    },
+    {
+        "input": "Movies- movie, we'll go to a movie and a dinner and- and:",
+        "target": "excited"
+    },
+    {
+        "input": "actually, you know, there's this- there's this really cool restaurant, um, I don't know if you-  it's Red Lobster.  It's like down on:",
+        "target": "excited"
+    },
+    {
+        "input": "[LAUGHTER]:",
+        "target": "excited"
+    },
+    {
+        "input": "Vermont.:",
+        "target": "excited"
+    },
+    {
+        "input": "Wait, you've been there before?:",
+        "target": "excited"
+    },
+    {
+        "input": "On occasion I've heard of it.:",
+        "target": "excited"
+    },
+    {
+        "input": "Oh, so well then you know that it's awesome.:",
+        "target": "excited"
+    },
+    {
+        "input": "Yeah.  Totally.:",
+        "target": "excited"
+    },
+    {
+        "input": "Right, so we'll go there and then- and then we'll get some ice cream and maybe we'll go putt-putt golfing.:",
+        "target": "excited"
+    },
+    {
+        "input": "I am totally down with the ice cream.:",
+        "target": "excited"
+    },
+    {
+        "input": "Okay.  Putt-putt golfing?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Eh, we can work that part out.:",
+        "target": "excited"
+    },
+    {
+        "input": "Yeah, you want to go.  No, you want to go. You want to go.:",
+        "target": "excited"
+    },
+    {
+        "input": "Alright.:",
+        "target": "excited"
+    },
+    {
+        "input": "I can see it in your eyes.  You want to go.:",
+        "target": "excited"
+    },
+    {
+        "input": "party.:",
+        "target": "excited"
+    },
+    {
+        "input": "Good. Alright we're so happy.:",
+        "target": "excited"
+    },
+    {
+        "input": "That's right.  Um, so U.S.C. is a really nice school.:",
+        "target": "excited"
+    },
+    {
+        "input": "I know.:",
+        "target": "excited"
+    },
+    {
+        "input": "Are you going to take out loans or-:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay well that's not a happy part.  We don't want to talk about that.:",
+        "target": "excited"
+    },
+    {
+        "input": "Well no.  I mean I have some scholarships and some financial aid and stuff but I'll have to, you know, I'll get a job:",
+        "target": "excited"
+    },
+    {
+        "input": "while I'm in school.  It'll be good.:",
+        "target": "excited"
+    },
+    {
+        "input": "Yeah.  It will work out.  Maybe I could work at Red Lobster.:",
+        "target": "excited"
+    },
+    {
+        "input": "I know.  Right down the street.:",
+        "target": "excited"
+    },
+    {
+        "input": "But, um-:",
+        "target": "neutral"
+    },
+    {
+        "input": "I mean, like, I don't know.  I'm just saying if you need to make some extra cash.  You can, you know:",
+        "target": "neutral"
+    },
+    {
+        "input": "Or library.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I just said the library:",
+        "target": "neutral"
+    },
+    {
+        "input": "or, um, campus cruiser.  You can drive people around.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Excellent.  Drive drunk people around because you know that's all campus cruisers for.:",
+        "target": "excited"
+    },
+    {
+        "input": "Right or you can run for student counsel.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.  No, that's dorky.:",
+        "target": "excited"
+    },
+    {
+        "input": "Dorky?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah.:",
+        "target": "excited"
+    },
+    {
+        "input": "It's important.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Student counsel?:",
+        "target": "excited"
+    },
+    {
+        "input": "No, it's dorky.:",
+        "target": "excited"
+    },
+    {
+        "input": "Fine.  It's dorky.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Social life.  Hello.:",
+        "target": "excited"
+    },
+    {
+        "input": "But that'll fit you  because you're a dork.:",
+        "target": "neutral"
+    },
+    {
+        "input": "[LAUGHTER].:",
+        "target": "excited"
+    },
+    {
+        "input": "[LAUGHTER].:",
+        "target": "excited"
+    },
+    {
+        "input": "I dork.:",
+        "target": "excited"
+    },
+    {
+        "input": "No.  But I'm thinking I might, you know, like audition for a play or something.  I don't really want to do the sorority thing.  I'm not really feeling that vibe with the:",
+        "target": "excited"
+    },
+    {
+        "input": "Yeah, you don't want to do the sorority thing because you'll probably get used and abused by:",
+        "target": "neutral"
+    },
+    {
+        "input": "lots of drunk frat boys:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What have you heard about the Greek system?:",
+        "target": "excited"
+    },
+    {
+        "input": "I mean it's not really free because you have to pay for it, but yeah.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well do you think you're going to live on campus or off campus your first year?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I hate to break this to you but you meet people by being cool, so-:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, oh, I'm sorry, my bad.  I'll have to, like, sign up for summer lessons from you before I go.  You can teach me how to be cool before I go to college.:",
+        "target": "excited"
+    },
+    {
+        "input": "No, no, no.  You're right though.  I mean, you know, dorms are definitely the way to meet people.  I know that I was in an apartment off campus:",
+        "target": "neutral"
+    },
+    {
+        "input": "that happened, you know, that was going on.:",
+        "target": "neutral"
+    },
+    {
+        "input": "That's what you're saying. I'm right. [LAUGHTER]:",
+        "target": "excited"
+    },
+    {
+        "input": "me.:",
+        "target": "excited"
+    },
+    {
+        "input": "Oh, um-:",
+        "target": "neutral"
+    },
+    {
+        "input": "What's wrong?:",
+        "target": "neutral"
+    },
+    {
+        "input": "You didn't fill this out right. All right. It says that you have to fill out the back sheet of this, but you filled out the yellow sheet of it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, no, no, no, no, no. The lady over there, she told me to fill out the front and she said to wait in this line.:",
+        "target": "fear"
+    },
+    {
+        "input": "Who?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I don't know. Some lady. Sonya or something.:",
+        "target": "fear"
+    },
+    {
+        "input": "She- she probably doesn't even work here.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Excuse me? No, no. I waited in the line over there..:",
+        "target": "fear"
+    },
+    {
+        "input": "All right  Uh-:",
+        "target": "neutral"
+    },
+    {
+        "input": "and she told me to come over here and she said to fill out everything on the application and I did that.:",
+        "target": "fear"
+    },
+    {
+        "input": "It's not right.:",
+        "target": "fear"
+    },
+    {
+        "input": "Look, I-- No, no, no, I--you don't understand. I have to go back to work.:",
+        "target": "fear"
+    },
+    {
+        "input": "You just take--all right.:",
+        "target": "fear"
+    },
+    {
+        "input": "Well, you didn't fill this paper at work out right and it's going to take another fifteen minutes to do it and look at how long the line we got here so just-:",
+        "target": "fear"
+    },
+    {
+        "input": "I am not-:",
+        "target": "fear"
+    },
+    {
+        "input": "okay, just go back and fill it out real quick and I'm sorry, you have to get back in line and wait. I can't let you cut.:",
+        "target": "fear"
+    },
+    {
+        "input": "But you don't understand. I cannot get back in line because I have to go back to work. I will get fired if I don't leave here.:",
+        "target": "fear"
+    },
+    {
+        "input": "[LAUGHTER]:",
+        "target": "fear"
+    },
+    {
+        "input": "It's almost time for me to go.:",
+        "target": "sad"
+    },
+    {
+        "input": "There's nothing I can do.  I mean, the government you know--:",
+        "target": "sad"
+    },
+    {
+        "input": "What--what're we gonna do here?  I can't--I can't do this by myself.  I--:",
+        "target": "fear"
+    },
+    {
+        "input": "You're gonna have to.  I mean, you're a great father.  You can do it.  I know you can.:",
+        "target": "sad"
+    },
+    {
+        "input": "But, I'm--I'm nothing--I'm nothing without you here.  Maybe we can--we can get out of this somehow.:",
+        "target": "fear"
+    },
+    {
+        "input": "I don't think so.:",
+        "target": "sad"
+    },
+    {
+        "input": "Well, come on.  You've gotta think of something.  A year--a year away, it's gonna tear us apart.  I don't even--I don't even wanna think about it.  I mean, I don't even know if I'll be able to get in touch with you or--:",
+        "target": "fear"
+    },
+    {
+        "input": "Well, we can do the best we can and-and, with um, you know like wireless internet these days--I think that we could-- Talk every once in awhile.:",
+        "target": "sad"
+    },
+    {
+        "input": "You could send me pictures.:",
+        "target": "sad"
+    },
+    {
+        "input": "What if--maybe--what if, uh, we went somewhere over there?  I don't--I don't know--I--I need to figure something out for this because--:",
+        "target": "fear"
+    },
+    {
+        "input": "Their not gonna let you.  You have to stay home and I have to go.  I mean, that's all--:",
+        "target": "sad"
+    },
+    {
+        "input": "and--I mean, my daughter--I don't want to put her in danger.  You know?  She has to stay.:",
+        "target": "sad"
+    },
+    {
+        "input": "This is gonna be a--a crucial yet--she's--she's growing up.  She's gonna need you.:",
+        "target": "fear"
+    },
+    {
+        "input": "I know, but, she needs to be safe more.  She needs to be around kids her age--own age.  She needs to be able to play on the streets and--:",
+        "target": "sad"
+    },
+    {
+        "input": "But she's--you're not gonna--you're not gonna be here for--for her first words.  For her first steps.  I mean--it's something that you're supposed to be here for that--:",
+        "target": "sad"
+    },
+    {
+        "input": "You can just remember it for me.:",
+        "target": "sad"
+    },
+    {
+        "input": "I don't know--I don't know--I don't know how--I don't know how this could even be possible for you--I--if I was--:",
+        "target": "fear"
+    },
+    {
+        "input": "Well, I need--I need you to be able to do this for me 'cause I can't do anything about it.:",
+        "target": "sad"
+    },
+    {
+        "input": "I mean, it's just as hard for me, but--I know that we can do it, you know:",
+        "target": "sad"
+    },
+    {
+        "input": "I mean, you just get to--go off and do your thing.  I mean, yeah, we're both--I don't know--it's bad for both of us, but--:",
+        "target": "fear"
+    },
+    {
+        "input": "...it would be so much better if we can--if we could stay together somehow.  You know--we could--we could do this together.:",
+        "target": "fear"
+    },
+    {
+        "input": "I don't want you in danger.  And I don't want her in danger.:",
+        "target": "sad"
+    },
+    {
+        "input": "I have no choice. There's nothing I can do.:",
+        "target": "sad"
+    },
+    {
+        "input": "All right.:",
+        "target": "sad"
+    },
+    {
+        "input": "Now and always sweet.:",
+        "target": "joyful"
+    },
+    {
+        "input": "I don't care then.:",
+        "target": "joyful"
+    },
+    {
+        "input": "It had to happen sooner or later.:",
+        "target": "joyful"
+    },
+    {
+        "input": "[BREATHING]:",
+        "target": "excited"
+    },
+    {
+        "input": "Oh. Behave exquisitely...:",
+        "target": "joyful"
+    },
+    {
+        "input": "With perfect poise...:",
+        "target": "joyful"
+    },
+    {
+        "input": "[LAUGHTER] I think I shall do a court curtsey.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Ah...:",
+        "target": "joyful"
+    },
+    {
+        "input": "[LAUGHTER]:",
+        "target": "joyful"
+    },
+    {
+        "input": "Ah...Strange...:",
+        "target": "joyful"
+    },
+    {
+        "input": "Mmm...:",
+        "target": "joyful"
+    },
+    {
+        "input": "Things that just ought to matter dreadfully, you know they just don't matter at all when one is happy, do they?:",
+        "target": "joyful"
+    },
+    {
+        "input": "Darling, don't say that.:",
+        "target": "sad"
+    },
+    {
+        "input": "Oh, yes meaning just that.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh, dear god what is that all mean, dear god?:",
+        "target": "joyful"
+    },
+    {
+        "input": "[LAUGHTER] Don't laugh at me I'm being serious.:",
+        "target": "joyful"
+    },
+    {
+        "input": "You mustn't be so serious, darling, it just what they want.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Flippancy brings out the acid in their darn sweetness and light.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Mmhmm If I must laugh at everything, I must laugh at us too.:",
+        "target": "joyful"
+    },
+    {
+        "input": "How long will it last, this ludicrous, overbearing love of ours?:",
+        "target": "joyful"
+    },
+    {
+        "input": "We are figures of fun all right:",
+        "target": "joyful"
+    },
+    {
+        "input": "Ahh...who knows.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Shall we always want to bicker and fight?:",
+        "target": "joyful"
+    },
+    {
+        "input": "If one of us dies...:",
+        "target": "joyful"
+    },
+    {
+        "input": "I think you're talking nonsense.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Let's pity the poor philosophers, huh?  Let's enjoy the party for as long as we can, okay?  Let's blow trumpets and squeakers and sit like small idiotic school children. [LAUGHTER]:",
+        "target": "excited"
+    },
+    {
+        "input": "Come here darling, kiss me:",
+        "target": "excited"
+    },
+    {
+        "input": "before your body rots and worms pop out of your eye sockets.:",
+        "target": "joyful"
+    },
+    {
+        "input": "See, you know I don't care what you do.  You could paint yourself green and run naked to the Place Vendome.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Do you remember that row we did have in Venice?:",
+        "target": "joyful"
+    },
+    {
+        "input": "Which particular one?:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh, Charles.  That was his name Charles. He did wriggle so beautifully.:",
+        "target": "excited"
+    },
+    {
+        "input": "But you know it wasn't as bad as the one we had in Cannes...mmhmm...where your curling irons burnt a hole in my dressing gown.:",
+        "target": "excited"
+    },
+    {
+        "input": "Cannes...mmhmm...:",
+        "target": "joyful"
+    },
+    {
+        "input": "The manager came in he found us rolling about the floor.  [LAUGHTER]:",
+        "target": "joyful"
+    },
+    {
+        "input": "I will never forget the look on his face.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Scratching and biting like panthers. [LAUGHTER] Oh...:",
+        "target": "joyful"
+    },
+    {
+        "input": "oh...:",
+        "target": "joyful"
+    },
+    {
+        "input": "Utterly, utterly ridiculous.:",
+        "target": "joyful"
+    },
+    {
+        "input": "oh...[LAUGHTER]:",
+        "target": "joyful"
+    },
+    {
+        "input": "We were very much younger then.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Very much sillier.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh you knew there was nothing in that.:",
+        "target": "excited"
+    },
+    {
+        "input": "So what do you think?:",
+        "target": "excited"
+    },
+    {
+        "input": "About what?:",
+        "target": "mad"
+    },
+    {
+        "input": "About what I just said?:",
+        "target": "fear"
+    },
+    {
+        "input": "It's ridiculous.:",
+        "target": "mad"
+    },
+    {
+        "input": "It certainly is not.  It's a slightly exaggerated scientific fact.:",
+        "target": "fear"
+    },
+    {
+        "input": "It's PR.  I mean, somebody sold you a good bill about this wonderful event that going to happen on the beach.:",
+        "target": "mad"
+    },
+    {
+        "input": "I'm not the only one.  Look at all these people.:",
+        "target": "fear"
+    },
+    {
+        "input": "Yeah.  Everyone else was sold the same thing.  I mean, look, it keeps us excited, it keeps us coming back for more and you know, keeps us thinking life's going to start any minute now.:",
+        "target": "mad"
+    },
+    {
+        "input": "Are we talking about the same thing?:",
+        "target": "fear"
+    },
+    {
+        "input": "Look, I'm sorry but it's still just fish to me.:",
+        "target": "mad"
+    },
+    {
+        "input": "I thought you wanted to see it.:",
+        "target": "fear"
+    },
+    {
+        "input": "There's nothing to it.  The Grunions arrive, they do their little fish business, you know?  We go oh, ahh, look at the fish and they go home and we go home.:",
+        "target": "fear"
+    },
+    {
+        "input": "For heavens sake, grow up.  We're not going to see the Grunions.:",
+        "target": "fear"
+    },
+    {
+        "input": "Why not?:",
+        "target": "fear"
+    },
+    {
+        "input": "We never do, do we?  Have we ever?:",
+        "target": "fear"
+    },
+    {
+        "input": "Oh my gosh.  We missed them twice, that's hardly ever.:",
+        "target": "fear"
+    },
+    {
+        "input": "Okay.  Twice is as many times as we've tried and that's ever.:",
+        "target": "mad"
+    },
+    {
+        "input": "Carla, can I ask you something?:",
+        "target": "fear"
+    },
+    {
+        "input": "Don't take this wrong but, are you having your period?:",
+        "target": "fear"
+    },
+    {
+        "input": "Augie, god dammit, don't ask me that.  You always ask me that.  I hate it when you ask me that.  It's insulting.:",
+        "target": "mad"
+    },
+    {
+        "input": "What's bugging you then?:",
+        "target": "fear"
+    },
+    {
+        "input": "Look, it's pointless.  It's...we're not going to see the Grunions I mean, it's like waiting around to see Santa Claus, you know, it's...:",
+        "target": "fear"
+    },
+    {
+        "input": "Listen, I've waiting my entire life on this beach just standing there waiting for this fish to show up and these fish never show up.:",
+        "target": "mad"
+    },
+    {
+        "input": "I thought you wanted to see it.:",
+        "target": "fear"
+    },
+    {
+        "input": "God, you don't understand anything.:",
+        "target": "fear"
+    },
+    {
+        "input": "No, of course not.:",
+        "target": "fear"
+    },
+    {
+        "input": "I do.  I always do.  I keep thinking, this time will be the time and it never is.:",
+        "target": "fear"
+    },
+    {
+        "input": "Well, we're going to see it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "No we won't.  I mean, God, this isn't about the fish Augie.:",
+        "target": "mad"
+    },
+    {
+        "input": "What...I've been trying to, I've been trying to figure out the point where we went wrong and I can't seem to pinpoint that moment.:",
+        "target": "fear"
+    },
+    {
+        "input": "Let's see I took a shower, you were watching the news, you said hey, hey the Grunions are running tonight and I said great let's go, I feel lucky tonight.:",
+        "target": "neutral"
+    },
+    {
+        "input": "And then I'm putting the animals out in the yard, I'm pulling the car out of the garage, putting my jacket on.:",
+        "target": "fear"
+    },
+    {
+        "input": "Look, do you remember the first time we came here?:",
+        "target": "fear"
+    },
+    {
+        "input": "We thought I was pregnant.:",
+        "target": "sad"
+    },
+    {
+        "input": "Wait a minute.  I've got it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "It was in the car right?  Driving past the Knickerbocker Liquor Locker...:",
+        "target": "neutral"
+    },
+    {
+        "input": "And you said let's get some champagne and I said time's a wasting or something like that.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You want this to be like the other time right?  That's it right?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I'd rather not remember something...:",
+        "target": "sad"
+    },
+    {
+        "input": "Rather not hope for something.:",
+        "target": "sad"
+    },
+    {
+        "input": "No.:",
+        "target": "sad"
+    },
+    {
+        "input": "Do you want me to get some champagne?:",
+        "target": "fear"
+    },
+    {
+        "input": "No.:",
+        "target": "fear"
+    },
+    {
+        "input": "Take off our shoes?:",
+        "target": "fear"
+    },
+    {
+        "input": "No.:",
+        "target": "fear"
+    },
+    {
+        "input": "What?  Do you want me to breathe in your ear?:",
+        "target": "fear"
+    },
+    {
+        "input": "No.:",
+        "target": "fear"
+    },
+    {
+        "input": "No...No...No...:",
+        "target": "fear"
+    },
+    {
+        "input": "No...:",
+        "target": "fear"
+    },
+    {
+        "input": "I want things to turn out the way that they're supposed to be.:",
+        "target": "mad"
+    },
+    {
+        "input": "Welcome to the human race.:",
+        "target": "mad"
+    },
+    {
+        "input": "Do you think that this is what I had in mind?  That four years down the line that we'd get married and come to the beach and argue with each other over fish?  No.:",
+        "target": "mad"
+    },
+    {
+        "input": "I was just like you.  I thought it was going to be all peaches and roses and everything great and the sand in our toes and the wind in our hair and the fish will always come and the bills will pay themselves and we'd have three big fat rosy kids...:",
+        "target": "mad"
+    },
+    {
+        "input": "...and you know?  Baby the jokes on us.  Because you know what you get?  Do you know what you get Carla?  You get this.:",
+        "target": "mad"
+    },
+    {
+        "input": "This what...what's this?  This isn't anything. Alright.  Sure.  Standing on the beach, fighting and waiting.:",
+        "target": "fear"
+    },
+    {
+        "input": "Yes it is.:",
+        "target": "mad"
+    },
+    {
+        "input": "Right.:",
+        "target": "mad"
+    },
+    {
+        "input": "Cause everything isn't anything like I thought it would be.:",
+        "target": "mad"
+    },
+    {
+        "input": "This is just this.  You know?  I mean it's a lot and everything but it isn't somewhere else.  Do you know what I'm trying to say?:",
+        "target": "sad"
+    },
+    {
+        "input": "I'm trying to do the best I can.:",
+        "target": "fear"
+    },
+    {
+        "input": "I know you are Augie.  I know you wanted this evening to be nice.:",
+        "target": "sad"
+    },
+    {
+        "input": "I can't help thinking about being somewhere else.:",
+        "target": "sad"
+    },
+    {
+        "input": "Maybe if you were with someone else too.:",
+        "target": "sad"
+    },
+    {
+        "input": "I didn't say that.:",
+        "target": "sad"
+    },
+    {
+        "input": "I know.  But I know I don't make you happy.:",
+        "target": "sad"
+    },
+    {
+        "input": "Augie, whatever I'm doing I'd rather be doing with you.:",
+        "target": "sad"
+    },
+    {
+        "input": "If anybody wants to be with anybody else it's probably you.  Probably somebody who enjoys herself a little more and is not so hard.:",
+        "target": "sad"
+    },
+    {
+        "input": "Well, I guess this is the wrong spot for the right people.:",
+        "target": "sad"
+    },
+    {
+        "input": "I mean look at the view of the moon we got from here.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yeah.  I noticed that.  It's real pretty on the water.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey, look what we got here.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh you brought refreshments.:",
+        "target": "joyful"
+    },
+    {
+        "input": "No I'm beginning to think you might be right.:",
+        "target": "joyful"
+    },
+    {
+        "input": "I think this may be the place for us after all.:",
+        "target": "joyful"
+    },
+    {
+        "input": "I am sorry Augie.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Shh.  If we're very quiet the fish might come.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Or not.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Or not.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yes.  The real cause of that rile was Peter Burden.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, come on, you knew there was nothing in that.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Presents?  A trivial little broach.:",
+        "target": "mad"
+    },
+    {
+        "input": "You went out of your way to torture me over Peter Burden.:",
+        "target": "mad"
+    },
+    {
+        "input": "No I didn't.  You made up the whole thing in your jealous imagination.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You must admit he was in love with you.:",
+        "target": "mad"
+    },
+    {
+        "input": "Just a little perhaps but nothing serious.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You let him kiss you. You said so.  What of it?:",
+        "target": "mad"
+    },
+    {
+        "input": "Well it didn't harm him, in fact, it pleasured him a lot and it didn't hurt me.:",
+        "target": "neutral"
+    },
+    {
+        "input": "And what about me?:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh, that's a nice point of view I must say.:",
+        "target": "mad"
+    },
+    {
+        "input": "Yeah, so am I.  Bored stiff.:",
+        "target": "mad"
+    },
+    {
+        "input": "You want some brandy?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I'll have a little I think.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I don't know why you want it.  You've already had two glasses.:",
+        "target": "mad"
+    },
+    {
+        "input": "No particular reason.  Anyhow they were very small ones.:",
+        "target": "mad"
+    },
+    {
+        "input": "I don't see what you have to go on and on with this kind of thing.:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh my...just because I just...okay...:",
+        "target": "mad"
+    },
+    {
+        "input": "It's become a habit with you.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You needn't be so grand just because you don't happen to want any yourself at the moment.:",
+        "target": "mad"
+    },
+    {
+        "input": "Really Amanda.:",
+        "target": "fear"
+    },
+    {
+        "input": "What?:",
+        "target": "mad"
+    },
+    {
+        "input": "Nothing.:",
+        "target": "fear"
+    },
+    {
+        "input": "Going out somewhere dear?:",
+        "target": "fear"
+    },
+    {
+        "input": "No, just making myself beautiful for you.:",
+        "target": "neutral"
+    },
+    {
+        "input": "That's the woman's job to lure the man.  Watch me a moment won't you?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Actually that's perfectly true.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yes it is.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I think that:",
+        "target": "neutral"
+    },
+    {
+        "input": "Adders don't snap, they sting.:",
+        "target": "mad"
+    },
+    {
+        "input": "They sting.:",
+        "target": "mad"
+    },
+    {
+        "input": "They snap.:",
+        "target": "fear"
+    },
+    {
+        "input": "Mind your business.:",
+        "target": "mad"
+    },
+    {
+        "input": "You're quite insufferable.  I expect it's because you're drunk.:",
+        "target": "mad"
+    },
+    {
+        "input": "I'm not in the least bit drunk.:",
+        "target": "mad"
+    },
+    {
+        "input": "You've always had a weak head.:",
+        "target": "mad"
+    },
+    {
+        "input": "Okay, like I mentioned before I had three very small, minute liquor glasses of brandy.  That's not even enough to get a child of two drunk.:",
+        "target": "mad"
+    },
+    {
+        "input": "On the contrary, a child of two can get violently drunk off just one glass of brandy.:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh, what an interesting topic.  What about a child of four and a child of six?  A child of nine?:",
+        "target": "mad"
+    },
+    {
+        "input": "Shut up.:",
+        "target": "mad"
+    },
+    {
+        "input": "We might be able to bring up a splendid little debate about this intemperate tots.:",
+        "target": "mad"
+    },
+    {
+        "input": "Not very funny dear.  In fact, maybe you better have some more brandy.:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh, thanks.  I think I will.:",
+        "target": "mad"
+    },
+    {
+        "input": "You better turn that off.:",
+        "target": "mad"
+    },
+    {
+        "input": "They are away in Tunis.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Turn it on again, please.:",
+        "target": "fear"
+    },
+    {
+        "input": "No I'll do no such thing.:",
+        "target": "mad"
+    },
+    {
+        "input": "Very well.  If you insist on being a boorish and idiotic.:",
+        "target": "mad"
+    },
+    {
+        "input": "Come on, turn it off.  It's driving me mad.:",
+        "target": "mad"
+    },
+    {
+        "input": "You are far too temperamental.  Try to control yourself.:",
+        "target": "mad"
+    },
+    {
+        "input": "Turn it--Turn it off.:",
+        "target": "mad"
+    },
+    {
+        "input": "Go away.  Go away.  I hate you.:",
+        "target": "mad"
+    },
+    {
+        "input": "Very amusing indeed.:",
+        "target": "mad"
+    },
+    {
+        "input": "I hate you.  Listen I'm sick and tired of listening to you, you sadistic bully.:",
+        "target": "mad"
+    },
+    {
+        "input": "You know what?  You're a vile, little, evil-minded, little, wicked beast and I never want to see you again.:",
+        "target": "mad"
+    },
+    {
+        "input": "This is the end.  Understand?  This is the end, here and now, forever and always.:",
+        "target": "mad"
+    },
+    {
+        "input": "You're not going nowhere. No you're not.:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh, yes I am. Yes I am and you can't stop me.:",
+        "target": "mad"
+    },
+    {
+        "input": "Just shut up.:",
+        "target": "mad"
+    },
+    {
+        "input": "shut up. shut up.  I would-I would never marry you again if you came crawling back to me on your hands and knees because you're an evil-minded little vampire and I hope to God I never see you again.:",
+        "target": "mad"
+    },
+    {
+        "input": "Listen, you're a cruel fiend and I hate, loathe you.  Thank God finally, finally thank God I've realized just how horrible you are--and marry you?  Marry you?  Never. I will never marry you.  I will die die in torment-:",
+        "target": "mad"
+    },
+    {
+        "input": "Beast. Brute. Cad. Swine. Beast. Beast. Brute. Devil. Sorry.:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh.:",
+        "target": "mad"
+    }
+]

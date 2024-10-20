@@ -1,0 +1,4438 @@
+[
+    {
+        "input": "Oh my God, hes lost it. Hes totally lost it.:",
+        "target": "sad"
+    },
+    {
+        "input": "What?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Or! Or, we could go to the bank, close our accounts and cut them off at the source.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Youre a genius!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Aww, man, now we wont be bank buddies!:",
+        "target": "sad"
+    },
+    {
+        "input": "Now, theres two reasons.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hey.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hey!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Ohh, you guys, remember that cute client I told you about? I bit him.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Where?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "On the touchy.:",
+        "target": "neutral"
+    },
+    {
+        "input": "And:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, I know!:",
+        "target": "powerful"
+    },
+    {
+        "input": "I-Im sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.:",
+        "target": "mad"
+    },
+    {
+        "input": "Well, next time your massaging him, you should try and distract yourself.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah! Yeah! Yeah! Like-like when Im doing something exciting and I dont wanna get:",
+        "target": "joyful"
+    },
+    {
+        "input": "Thank you, Joey.:",
+        "target": "neutral"
+    },
+    {
+        "input": "No-no, thank you.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hey Estelle, listen:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well! Well! Well! Joey Tribbiani! So you came back huh? They:",
+        "target": "powerful"
+    },
+    {
+        "input": "What are you talkin about? I never left you! Youve always been my agent!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Really?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yeah!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh well, no harm, no foul.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay, you guys free tonight?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah!!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Tonight? You-you didn't say it was going to be at nighttime.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yes? Yes?! How can I help you?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah, we werewe were just looking around.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh-oh, youre-youre fellow scholars.:",
+        "target": "powerful"
+    },
+    {
+        "input": "What exactly were you looking for, hmm?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Perhaps,  perhaps Dr. Chester Stocks musings on the Smiledon Californicus?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Uhh.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ah AhGet out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marions views on evolution?:",
+        "target": "mad"
+    },
+    {
+        "input": "Uh, actually I find Marions views far too progressionist.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I find Marions views far too progressionist.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Im sorry, who are you?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Im a professor here uh, RossGeller.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ross Geller, why do I know that name? Its uhWait!  Did you write this?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yes! Youre the person who checked out my book?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yknow, you look nothing like I wouldve thought. Youreyoure so young.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Well I uh, I skipped forth grade.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You had no right to tell me you ever had feelings for me.:",
+        "target": "mad"
+    },
+    {
+        "input": "What?:",
+        "target": "powerful"
+    },
+    {
+        "input": "I was doing great with Julie before I found out about you.:",
+        "target": "mad"
+    },
+    {
+        "input": "Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?:",
+        "target": "mad"
+    },
+    {
+        "input": "The point is I...:",
+        "target": "mad"
+    },
+    {
+        "input": "I don't need this right now, OK.:",
+        "target": "mad"
+    },
+    {
+        "input": "It, it's too late, I'm with somebody else, I'm happy.:",
+        "target": "mad"
+    },
+    {
+        "input": "This ship has sailed.:",
+        "target": "mad"
+    },
+    {
+        "input": "Alright, fine, you go ahead and you do that, alright Ross.:",
+        "target": "mad"
+    },
+    {
+        "input": "Fine.:",
+        "target": "mad"
+    },
+    {
+        "input": "Cause I don't need your stupid ship.:",
+        "target": "mad"
+    },
+    {
+        "input": "Good.:",
+        "target": "mad"
+    },
+    {
+        "input": "Good.:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh, it's so romantic to send people off on their honeymoon.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yknow, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.:",
+        "target": "neutral"
+    },
+    {
+        "input": "All in good time my love.:",
+        "target": "neutral"
+    },
+    {
+        "input": "All in good time.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh shoot!:",
+        "target": "powerful"
+    },
+    {
+        "input": "I left my guitar in their apartment.:",
+        "target": "sad"
+    },
+    {
+        "input": "Well you can let me in later.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I dont have a key, they took mine to give to you.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What?! They took mine to give to you!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Why would they take away our keys?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Wow! It looks like we got a lot of good stuff.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh we did, but my mom got us the greatest gift of all.:",
+        "target": "joyful"
+    },
+    {
+        "input": "A:",
+        "target": "neutral"
+    },
+    {
+        "input": "No. Shes going to live with us for eight weeks.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Uh, what?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yes! Shes gonna help us take care of the baby! Woo-hoo.:",
+        "target": "joyful"
+    },
+    {
+        "input": "WhatYoure not serious.:",
+        "target": "powerful"
+    },
+    {
+        "input": "I mean shes a very nice woman, but there is no way we can take eight weeks of her.:",
+        "target": "mad"
+    },
+    {
+        "input": "Shell drive us totally crazy.:",
+        "target": "disgust"
+    },
+    {
+        "input": "Hi Ross!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hi roomie!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey! What did you decide to do about the movie?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I dont know!:",
+        "target": "neutral"
+    },
+    {
+        "input": "Its not like its porn!:",
+        "target": "neutral"
+    },
+    {
+        "input": "This is a serious, legitimate movie.:",
+        "target": "neutral"
+    },
+    {
+        "input": "And the nudity is really important to the story.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Thats what you say about porn.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Youre right. Maybe I shouldnt even go on the call back.:",
+        "target": "neutral"
+    },
+    {
+        "input": "No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Well thats true.:",
+        "target": "neutral"
+    },
+    {
+        "input": "And I am only naked in one scene.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Plus it sounds really great.:",
+        "target": "neutral"
+    },
+    {
+        "input": "My characters catholic and he falls in love with this Jewish girl.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Who run away together and they get caught in this big rainstorm.:",
+        "target": "neutral"
+    },
+    {
+        "input": "So we go into this barn and undress each other and hold each other.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Its really sweet and-and tender.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey, whats up?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Nothing, Monica and I had a stupid fight.:",
+        "target": "sad"
+    },
+    {
+        "input": "But youre still moving in together, right? Because my ad came out today.:",
+        "target": "neutral"
+    },
+    {
+        "input": "\"Wanted. Female roommate, non-smoker, non-ugly.\" Nice!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yeah?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I just figured yknow, after living with you itd be an interesting change of pace to have a female roommate, yknow?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Someone I can learn from, someone-someone whos different than me.:",
+        "target": "neutral"
+    },
+    {
+        "input": "And whats more different than me. A guy whos:",
+        "target": "neutral"
+    },
+    {
+        "input": "So where are we going next?:",
+        "target": "neutral"
+    },
+    {
+        "input": "This witness won't return my calls so we're gonna see if we can surprise him coming home.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Sur-surprise him? We're not, we're not gonna make anybody mad are we?:",
+        "target": "fear"
+    },
+    {
+        "input": "Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?:",
+        "target": "joyful"
+    },
+    {
+        "input": "It's a witness not a perp. And no one talks like that!:",
+        "target": "mad"
+    },
+    {
+        "input": "Yeah, no one talks like that!:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh what? Like your Mr. Cop!:",
+        "target": "mad"
+    },
+    {
+        "input": "Hey, I'm more cop than you two!:",
+        "target": "mad"
+    },
+    {
+        "input": "How do you figure that?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hello! I'm in the front seat, okay? I'm Gary's partner!:",
+        "target": "neutral"
+    },
+    {
+        "input": "I guess so.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Here you go. Thank you!:",
+        "target": "neutral"
+    },
+    {
+        "input": "Wait, Rach! Where's the other one?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh what, you-you want both of them?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Rachel Karen Green, where's the other earring?!:",
+        "target": "mad"
+    },
+    {
+        "input": "Okay, okay, okay, look, just don't freak out, but I kinda lost it.:",
+        "target": "fear"
+    },
+    {
+        "input": "I know it's in the apartment, but I:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, what am I going to tell Monica? She wants to wear them tonight!:",
+        "target": "fear"
+    },
+    {
+        "input": "Tell her to wear her own earrings.:",
+        "target": "mad"
+    },
+    {
+        "input": "These:",
+        "target": "neutral"
+    },
+    {
+        "input": "Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!:",
+        "target": "mad"
+    },
+    {
+        "input": "Why not?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Because I lose her stuff!:",
+        "target": "mad"
+    },
+    {
+        "input": "Uh Phoebe, can I see you for a second?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah!:",
+        "target": "neutral"
+    },
+    {
+        "input": "Whats going on?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Chandlers gone again!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Oh my God! Why would you play hide and seek with someone you know is a flight risk?!:",
+        "target": "sad"
+    },
+    {
+        "input": "Okay. You ready to push again?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I already had a baby. Leave me alone.:",
+        "target": "mad"
+    },
+    {
+        "input": "Okay, okay, come on, you can do it. You can do it!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yeah!!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Little Leslie is here!:",
+        "target": "joyful"
+    },
+    {
+        "input": "We got another one!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Oh my God, I can't believe I have two-two children.:",
+        "target": "powerful"
+    },
+    {
+        "input": "How scary is that?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Come on little Chandler, it's time to be born. Come on little Chandler! Come on!:",
+        "target": "joyful"
+    },
+    {
+        "input": "All right, he's coming. He's coming!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey, where's his thing?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Chandler's a girl!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Oh God, kindergarten flashback.:",
+        "target": "powerful"
+    },
+    {
+        "input": "They musta read the sonogram wrong.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Cause they, 'cause they thought it was a boy, but Chandler's a girl!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Chandler's a girl!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Okay, keep saying it!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Am I too late?!:",
+        "target": "neutral"
+    },
+    {
+        "input": "No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.:",
+        "target": "joyful"
+    },
+    {
+        "input": "We have our babies?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yeah.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh, we have our babies.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey Toby!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey Bobby.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Its Bob actually. Hey, you work up here, can you tell me where this Chandler:",
+        "target": "neutral"
+    },
+    {
+        "input": "Uhh yeah. Yeah, its  right, right down there.  Right there, yeah. Can I ask you why?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I want to talk to that bastard, see what his problem is.:",
+        "target": "mad"
+    },
+    {
+        "input": "Okay Bob listen uhh, Im the reason you didnt get the job up here.:",
+        "target": "sad"
+    },
+    {
+        "input": "Toby dont.:",
+        "target": "sad"
+    },
+    {
+        "input": "Bob!:",
+        "target": "sad"
+    },
+    {
+        "input": "Toby! Im not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!:",
+        "target": "mad"
+    },
+    {
+        "input": "Thank you.  Oh Joey and look at this crib! Its so cute!:",
+        "target": "joyful"
+    },
+    {
+        "input": "I know! I found it on the street.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Are you seriousReally?! Its in such good condition.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yeah.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Wow! Whoa-whoa whats under the covers?:",
+        "target": "powerful"
+    },
+    {
+        "input": "I dont know.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Its moving.:",
+        "target": "fear"
+    },
+    {
+        "input": "Ew.:",
+        "target": "disgust"
+    },
+    {
+        "input": "Its stillIts got a tail! Get it out of here! Get it out of here!!:",
+        "target": "fear"
+    },
+    {
+        "input": "Ooh! Ah! Okay!:",
+        "target": "fear"
+    },
+    {
+        "input": "Well, I went over to Kyles last night to pick up a few things and we got to reminiscing:",
+        "target": "neutral"
+    },
+    {
+        "input": "we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So:",
+        "target": "sad"
+    },
+    {
+        "input": "Oh just say it Kyle!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Were gonna give it another try.:",
+        "target": "joyful"
+    },
+    {
+        "input": "What about her whining and her constant need for attention?!:",
+        "target": "mad"
+    },
+    {
+        "input": "Im gonna work on that.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh right, because youre so capable of change.:",
+        "target": "mad"
+    },
+    {
+        "input": "Yknow, he hums when he pees!:",
+        "target": "mad"
+    },
+    {
+        "input": "I do know.:",
+        "target": "neutral"
+    },
+    {
+        "input": "It makes him miss the bowl, but whatever.:",
+        "target": "disgust"
+    },
+    {
+        "input": "Were so sorry.:",
+        "target": "sad"
+    },
+    {
+        "input": "Thats all right, we-we dont need you. In fact, hey Im over it already.:",
+        "target": "mad"
+    },
+    {
+        "input": "Yeah, and yknow what? I dont give a tiny rats ass.:",
+        "target": "mad"
+    },
+    {
+        "input": "Yeah, were gonna go.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Im sorry. Ugh, Pheebs, you were, you were right about her. Yknow, she:",
+        "target": "sad"
+    },
+    {
+        "input": "Oh. Yknow, he hums while he does other stuff to.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah, we're better off without them.:",
+        "target": "mad"
+    },
+    {
+        "input": "And yknow, even if they break up again, youd better not let him in your sad mens club!:",
+        "target": "mad"
+    },
+    {
+        "input": "Divorced mens club.:",
+        "target": "sad"
+    },
+    {
+        "input": "Why isnt that valet back with my Porsche?:",
+        "target": "mad"
+    },
+    {
+        "input": "Maybe because youve got the keys?:",
+        "target": "mad"
+    },
+    {
+        "input": "This is totally your fault!:",
+        "target": "mad"
+    },
+    {
+        "input": "My fault?! You threatened the judge!:",
+        "target": "mad"
+    },
+    {
+        "input": "Well, you ripped the paper out of the court reporters machine!!:",
+        "target": "mad"
+    },
+    {
+        "input": "Phoebe!:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Have you seen Chandler?!:",
+        "target": "neutral"
+    },
+    {
+        "input": "No! Why?:",
+        "target": "neutral"
+    },
+    {
+        "input": "The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!:",
+        "target": "fear"
+    },
+    {
+        "input": "I know!:",
+        "target": "fear"
+    },
+    {
+        "input": "How bad is this?:",
+        "target": "fear"
+    },
+    {
+        "input": "Well for the regular guy, its bad, but Chandler, Oh dear God!:",
+        "target": "fear"
+    },
+    {
+        "input": "I know! I know! And he totally freaked out and I cant find him anywhere!:",
+        "target": "fear"
+    },
+    {
+        "input": "What are you gonna do?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, Im never gonna listen to you again, thats for sure!:",
+        "target": "mad"
+    },
+    {
+        "input": "\"Yknow, harm can it do if you go and put your name down?\":",
+        "target": "neutral"
+    },
+    {
+        "input": "Rachel said that!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Well Rachels not here!:",
+        "target": "mad"
+    },
+    {
+        "input": "Come on, come on.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Damnit, damnit, damnit, damnit.:",
+        "target": "mad"
+    },
+    {
+        "input": "This is all your fault.:",
+        "target": "mad"
+    },
+    {
+        "input": "This is supposed to be, like, the greatest day of my life, y'know?:",
+        "target": "mad"
+    },
+    {
+        "input": "My son is being born, and I should be in there, you know, instead of stuck in a closet with you.:",
+        "target": "mad"
+    },
+    {
+        "input": "The woman I love is having a baby today. I've been waiting for this just as much as you have.:",
+        "target": "mad"
+    },
+    {
+        "input": "No no no, believe me.:",
+        "target": "mad"
+    },
+    {
+        "input": "No one has been waiting for this as much as I have, ok?:",
+        "target": "mad"
+    },
+    {
+        "input": "And you know what the funny thing is?:",
+        "target": "neutral"
+    },
+    {
+        "input": "When this day is over, you get to go home with the baby, ok?:",
+        "target": "mad"
+    },
+    {
+        "input": "Where does that leave me?:",
+        "target": "sad"
+    },
+    {
+        "input": "You get to be the baby's father.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Everyone knows who you are.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Who am I?:",
+        "target": "mad"
+    },
+    {
+        "input": "There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.:",
+        "target": "sad"
+    },
+    {
+        "input": "Every day is Lesbian Lover Day.:",
+        "target": "neutral"
+    },
+    {
+        "input": "This is so great.:",
+        "target": "joyful"
+    },
+    {
+        "input": "You wanna explain that?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.:",
+        "target": "sad"
+    },
+    {
+        "input": "And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.:",
+        "target": "joyful"
+    },
+    {
+        "input": "And it's not even born yet.:",
+        "target": "sad"
+    },
+    {
+        "input": "It's just, it's just the luckiest baby in the whole world.:",
+        "target": "joyful"
+    },
+    {
+        "input": "I'm sorry, you were fighting.:",
+        "target": "sad"
+    },
+    {
+        "input": "Okay, it's a typical New York City apartment. Two girls are just hanging out.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hi, how are you doing Kelly?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I'm doing just fine! God, Tiffany, you smell so great!:",
+        "target": "joyful"
+    },
+    {
+        "input": "It's my new perfume. Why don't you come closer where you can:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, y'know Joey, you are sick!:",
+        "target": "disgust"
+    },
+    {
+        "input": "This is disgusting!:",
+        "target": "disgust"
+    },
+    {
+        "input": "I'm not reading this!:",
+        "target": "disgust"
+    },
+    {
+        "input": "What?! Wait-wait-wait! The handsome man was about to enter!!:",
+        "target": "powerful"
+    },
+    {
+        "input": "All right, I'll give you this, Mr. Peanut is a better dresser.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I mean he's got the monocle, he's got the top hat...:",
+        "target": "neutral"
+    },
+    {
+        "input": "You know he's gay?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I just wanna clarify this: are you outing Mr. Peanut?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hi. Hi.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What are you doing here?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Well, what?:",
+        "target": "neutral"
+    },
+    {
+        "input": "What?:",
+        "target": "neutral"
+    },
+    {
+        "input": "What is it?:",
+        "target": "neutral"
+    },
+    {
+        "input": "That she left you?:",
+        "target": "powerful"
+    },
+    {
+        "input": "That she likes women?:",
+        "target": "neutral"
+    },
+    {
+        "input": "That she left you for another woman that likes women?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...:",
+        "target": "mad"
+    },
+    {
+        "input": "Then what?:",
+        "target": "neutral"
+    },
+    {
+        "input": "My first time with Carol was...:",
+        "target": "neutral"
+    },
+    {
+        "input": "What?:",
+        "target": "neutral"
+    },
+    {
+        "input": "It was my:",
+        "target": "neutral"
+    },
+    {
+        "input": "With Carol?  Oh.:",
+        "target": "powerful"
+    },
+    {
+        "input": "So in your whole life, you've only been with oneoh.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Hi. Where is everybody?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, its already closed, Chris gave me the keys to lock up-what is wrong?:",
+        "target": "sad"
+    },
+    {
+        "input": "My marriage, I think my marriage is um, is kinda over.:",
+        "target": "sad"
+    },
+    {
+        "input": "Oh no! Why?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Cause Carols a lesbian.  And, and Im not one. And apparently its not a mix and match situation.:",
+        "target": "sad"
+    },
+    {
+        "input": "Oh my God! I dont believe it! Oh, you poor bunny.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Im an idiot.:",
+        "target": "disgust"
+    },
+    {
+        "input": "I mean shoulda seen it, I mean Carol and Id be out and shed, shed see some beautiful woman, and, and shed be Ross y'know look at her, and Id think, God, my wife is cool!:",
+        "target": "sad"
+    },
+    {
+        "input": "Aw! Hey, do you think that Susan person is her lover?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, now I do!!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Im sorry.:",
+        "target": "sad"
+    },
+    {
+        "input": "Seven years.:",
+        "target": "sad"
+    },
+    {
+        "input": "I mean weve been together seven years, shes the only woman whos ever loved me, and the only woman Ive-Ive ever....:",
+        "target": "sad"
+    },
+    {
+        "input": "Aw, God Ross. Oh.:",
+        "target": "sad"
+    },
+    {
+        "input": "Ill do it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "No you wont.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Look he knows he did a terrible thing and I believe him, hes sorry.:",
+        "target": "sad"
+    },
+    {
+        "input": "But,  youve got one more apology to make, all right, youve got to apologize to Mary-Angela.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay, absolutely!:",
+        "target": "joyful"
+    },
+    {
+        "input": "All right.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Youve got it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Cookie, now you can punch him!:",
+        "target": "mad"
+    },
+    {
+        "input": "What?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "All right, that's it, I quit.:",
+        "target": "mad"
+    },
+    {
+        "input": "What? I didn't say anything.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yeah, but this  isn't the face of a person who trusts a person.:",
+        "target": "mad"
+    },
+    {
+        "input": "Ok, this  is the face of a person who, you know, doesn't trust a person.:",
+        "target": "mad"
+    },
+    {
+        "input": "I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.:",
+        "target": "sad"
+    },
+    {
+        "input": "Would you relax? I know what I am doing. This is how he wears it.:",
+        "target": "mad"
+    },
+    {
+        "input": "Julie.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Jody!:",
+        "target": "powerful"
+    },
+    {
+        "input": "You were with Julie?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.:",
+        "target": "neutral"
+    },
+    {
+        "input": "And then, one thing led to another and, before I knew it, we were...shopping.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh. Oh my God.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Honey, wait. We only did it once. It didn't mean anything to me.:",
+        "target": "sad"
+    },
+    {
+        "input": "Yeah, right.  Sure!:",
+        "target": "mad"
+    },
+    {
+        "input": "Really, Rachel, I was thinking of you the whole time.:",
+        "target": "sad"
+    },
+    {
+        "input": "Look, I'm sorry, all right.:",
+        "target": "sad"
+    },
+    {
+        "input": "I never meant for you to find out!:",
+        "target": "sad"
+    },
+    {
+        "input": "Oh, please, you wanted to get caught.:",
+        "target": "mad"
+    },
+    {
+        "input": "That is not true!:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh, so you just sort of happened to leave it in here?:",
+        "target": "mad"
+    },
+    {
+        "input": "Did it ever occur to you that I might just be that stupid?:",
+        "target": "mad"
+    },
+    {
+        "input": "Ok, Monica. I just have to know one thing. Did you go with her to:",
+        "target": "sad"
+    },
+    {
+        "input": "Yeah!:",
+        "target": "powerful"
+    },
+    {
+        "input": "I cant say.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Why?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Why not?:",
+        "target": "sad"
+    },
+    {
+        "input": "I cant say because hes famous.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh my God, who is it?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Phoebe, come on, you have to tell us.:",
+        "target": "mad"
+    },
+    {
+        "input": "Okay, okay. Its James Brolin. James Brolin is the father of my baby.:",
+        "target": "neutral"
+    },
+    {
+        "input": "As in Barbara Streisands husband James Brolin?:",
+        "target": "powerful"
+    },
+    {
+        "input": "What?! Well he never said that to me!:",
+        "target": "powerful"
+    },
+    {
+        "input": "In:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, this life! Oh okay no, Chandler's is worse.:",
+        "target": "sad"
+    },
+    {
+        "input": "Man, it must be so cool remembering stuff like that! I don't have any past life memories.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Of course you don't sweetie. You're brand new.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I know Monica's worst Thanksgiving.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, let's not tell this story.:",
+        "target": "sad"
+    },
+    {
+        "input": "Oh, come on!:",
+        "target": "sad"
+    },
+    {
+        "input": "Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!:",
+        "target": "joyful"
+    },
+    {
+        "input": "What?! Joey got a turkey stuck on his head?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Hey, it's not like it sounds.:",
+        "target": "neutral"
+    },
+    {
+        "input": "It's:",
+        "target": "neutral"
+    },
+    {
+        "input": "Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!:",
+        "target": "mad"
+    },
+    {
+        "input": "Who was that?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Wendy bailed. I have no waitress.:",
+        "target": "sad"
+    },
+    {
+        "input": "Oh... that's too bad. Bye bye.:",
+        "target": "sad"
+    },
+    {
+        "input": "Ten dollars an hour.:",
+        "target": "neutral"
+    },
+    {
+        "input": "No.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Twelve dollars an hour.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Mon. I wish I could, but I've made plans to walk around.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You know, Rachel, when you ran out of your wedding, I was there for you.:",
+        "target": "mad"
+    },
+    {
+        "input": "I put a roof over your head, and if that means nothing to you...  twenty dollars an hour.:",
+        "target": "mad"
+    },
+    {
+        "input": "Done.:",
+        "target": "joyful"
+    },
+    {
+        "input": "The reactors gonna blow in three seconds, were never gonna make it!:",
+        "target": "fear"
+    },
+    {
+        "input": "Youve got to get out of here! Save yourself!:",
+        "target": "fear"
+    },
+    {
+        "input": "No! I wont leave you!:",
+        "target": "fear"
+    },
+    {
+        "input": "Dont worry about me, Im a robot! Im just a machine!!:",
+        "target": "sad"
+    },
+    {
+        "input": "No youre not! Not to me!:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh my God.:",
+        "target": "powerful"
+    },
+    {
+        "input": "What?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I am:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah, youre great! Okay, lets take it from:",
+        "target": "joyful"
+    },
+    {
+        "input": "No, I mean I was really acting my ass off.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yeah, I thought I was pretty good too.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh yeah, youre solid. Yeah, youre just no me.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yknow what? I think thats enough for now. Yeah. I dont want to be over rehearsed.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Fine!:",
+        "target": "mad"
+    },
+    {
+        "input": "Ill do it without you!:",
+        "target": "mad"
+    },
+    {
+        "input": "I dont need you or anybody else!:",
+        "target": "mad"
+    },
+    {
+        "input": "Im gonna make it on my own!:",
+        "target": "mad"
+    },
+    {
+        "input": "Youll see!!:",
+        "target": "mad"
+    },
+    {
+        "input": "Youll:",
+        "target": "neutral"
+    },
+    {
+        "input": "I can't believe that Ross is gone. It is just so sad.:",
+        "target": "sad"
+    },
+    {
+        "input": "I didn't know Ross and you were so close.:",
+        "target": "powerful"
+    },
+    {
+        "input": "We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.:",
+        "target": "sad"
+    },
+    {
+        "input": "I'm sure that would mean a lot to him.:",
+        "target": "neutral"
+    },
+    {
+        "input": "And if heaven has a    door, I'm sure he's pressing his ear up against it and listening intently.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I thought so many times about calling him and asking him out.    I guess I really missed my chance.:",
+        "target": "sad"
+    },
+    {
+        "input": "But you didn't!:",
+        "target": "joyful"
+    },
+    {
+        "input": "I'm still alive!!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Kori, I know this is a big surprise for you.:",
+        "target": "joyful"
+    },
+    {
+        "input": "It's a long story but the things    you just said really made my day!:",
+        "target": "joyful"
+    },
+    {
+        "input": "I mean, the fact that you are here means more    to me than if this room were filled with people!:",
+        "target": "joyful"
+    },
+    {
+        "input": "You sick freak, who does that? I can't believe I had a crush on    you!:",
+        "target": "mad"
+    },
+    {
+        "input": "Did you hear that? Kori Weston had a crush on me!!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Well do a quick check.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "So, eight days late huh?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yeah.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You must be a little uncomfortable.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Eh, just a tad.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Youre about 80 percent effaced, so youre on your way.:",
+        "target": "neutral"
+    },
+    {
+        "input": "It still could last a little while longer.:",
+        "target": "neutral"
+    },
+    {
+        "input": "If youre anxious there are a few ways to help things along.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Do them!!:",
+        "target": "mad"
+    },
+    {
+        "input": "Actually, theyre things you can do. Just some home remedies, but in my experience Ive found that some of them are quite effective.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, we are ready to try anything.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay, theres an herbal tea you can drink.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What is wrong with Emma?:",
+        "target": "sad"
+    },
+    {
+        "input": "Oh she misunderstood, she thought she was moving to Tulsa.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Anytime you're ready.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ok, ok, here we go.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ok, where am I talking to, here?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...:",
+        "target": "neutral"
+    },
+    {
+        "input": "Just aim for the bump.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ok, ok, ok, ok, here goes.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You know, I, you know, can't do this.:",
+        "target": "fear"
+    },
+    {
+        "input": "Uh, this is too weird.:",
+        "target": "disgust"
+    },
+    {
+        "input": "I feel stupid.:",
+        "target": "sad"
+    },
+    {
+        "input": "So don't do it, it's fine. You don't have to do it just because Susan does it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hello, baby. Hello, hello.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh, hi. Its Mark.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Easy. Easy. You have to go to the hospital. Okay?:",
+        "target": "fear"
+    },
+    {
+        "input": "Okay, I do.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I really do.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay, Im gonna get your coat and then Ill-Ill put you in a cab.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay. Oh wait, wait-wait, youre not gonna come with me?:",
+        "target": "sad"
+    },
+    {
+        "input": "Of course I am. I just have to make a call.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Thank you.  Oww!!!! God!:",
+        "target": "powerful"
+    },
+    {
+        "input": "What?! I wh-, whats wrong?:",
+        "target": "fear"
+    },
+    {
+        "input": "Im sorry, I just cant go to the hospital lookin like this.:",
+        "target": "disgust"
+    },
+    {
+        "input": "Pete Becker is circling the ring now. It looks like, hes just trying to feel him out. Oh, Bruiser is just...:",
+        "target": "neutral"
+    },
+    {
+        "input": "Run! Run you crazy, rich freak!:",
+        "target": "fear"
+    },
+    {
+        "input": "Oh, I cant watch this.:",
+        "target": "fear"
+    },
+    {
+        "input": "Check it out, hes winning!  Petes winning!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Really?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "No-o-o!!:",
+        "target": "fear"
+    },
+    {
+        "input": "Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.:",
+        "target": "fear"
+    },
+    {
+        "input": "Oh! Oh!:",
+        "target": "disgust"
+    },
+    {
+        "input": "Wait, if thats his favourite area, why is he being so mean to it?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Well, this is ironic.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Of your last two boyfriends, Richard didnt want to have kids, and from the looks of it, now Pete cant.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Dude, you dont have to brag! We got nothing here!!:",
+        "target": "mad"
+    },
+    {
+        "input": "Should we tell Rachel theres an empty private room right next door to hers?:",
+        "target": "neutral"
+    },
+    {
+        "input": "We could, or we can have sex in it.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Well let me think about that, while I remove my pants!:",
+        "target": "joyful"
+    },
+    {
+        "input": "I thought I was a complete idiot.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Hey, Im with you. He even asked me if I thought youd go out with him.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh! Oh, I think Im gonna throw up a little bit. What did you say?:",
+        "target": "disgust"
+    },
+    {
+        "input": "I said no.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "What? II just figured since youre pregnant youre not gonna be seeing people.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?:",
+        "target": "mad"
+    },
+    {
+        "input": "I didnt tell him. I didnt know if you were telling people. This is back when I thought Kash was still people.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Good-good, dont tell him. Dont tell him. Just have him call me okay?:",
+        "target": "fear"
+    },
+    {
+        "input": "Rach look, I really dont think thats such a great:",
+        "target": "sad"
+    },
+    {
+        "input": "Okay, you go do it! Ill come back to that set! Ill meet more actors! Ill meet em all!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Ohh, here you are. I was looking for you before. Joshuas gone so you and Emily are free to go.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Thats okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Shes still in there enjoying her fake party and uh, its too late to do any of the things I had planned, so:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ah! Ah! I forgot my jacket!:",
+        "target": "mad"
+    },
+    {
+        "input": "You tell them to wait!:",
+        "target": "mad"
+    },
+    {
+        "input": "Okay. Wait! Wait!:",
+        "target": "neutral"
+    },
+    {
+        "input": "Emily.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh no-no-no! Oh-no!  No! No! Emily!:",
+        "target": "mad"
+    },
+    {
+        "input": "Hey. Call me when you get there. Okay?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I know. You're the guy who wouldn't chip in for the handyman.:",
+        "target": "sad"
+    },
+    {
+        "input": "Nevermind!:",
+        "target": "mad"
+    },
+    {
+        "input": "No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Jen.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Jen, I know this may sound a little But uh, would you maybe wanna grab a cup of coffee sometime, or:",
+        "target": "neutral"
+    },
+    {
+        "input": "Sure! That would be nice.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Umm?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh! My number is on there.  Give me a call.:",
+        "target": "joyful"
+    },
+    {
+        "input": "I will give you a call.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I'll see you later.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay!:",
+        "target": "joyful"
+    },
+    {
+        "input": "I forgot my paper.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Here we go. Okay, brace yourselves.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ow!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Arent you gonna go?:",
+        "target": "neutral"
+    },
+    {
+        "input": "No. Thank you.:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, Rachel never pees in public restrooms.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, they never have any paper in there y'know. So my rule is no tissue, no tuschy.  Well, if everybodys going.:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, y'know what dont close it  cause the... keys...are in there.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, no-no-no-no-no-no!!:",
+        "target": "fear"
+    },
+    {
+        "input": "Whats going on?:",
+        "target": "neutral"
+    },
+    {
+        "input": "My lighters in there!:",
+        "target": "fear"
+    },
+    {
+        "input": "I promise.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Although, dont feel like you cant visit.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hey, is, is, is Chandler here?:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, no hes not.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You guys, Joey just saw Janice kissing her ex-husband.:",
+        "target": "powerful"
+    },
+    {
+        "input": "What?  So what are you going to do? I mean how, how are you going to tell Chandler?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Well, I was thinking about that and I, I think the best way would be, to not.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Joey, you cant keep this to yourself, if you know about this, you have to tell him.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Itll kill him. I mean itll, itll just kill him.:",
+        "target": "fear"
+    },
+    {
+        "input": "Well, you could wait til I go to the dentist, maybe:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hey, what are you doing here?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ah yeah, but now its Susan and me in Mexico and the hostages coming home.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Wheres Ben?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hes sleeping.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ahh.  Ooh, is this a ah, is this a bad time?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Umm, yeah, actually, Susans gonna be home any minute, its kinda an anniversary.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh! I thought you guys got married in uh, January?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Its not that kind of anniversary.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ah!  Oh.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Sooo!! Anyway...:",
+        "target": "neutral"
+    },
+    {
+        "input": "Where are we gonna find a tiny little hat?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, oh, oh, Ill get Rainy Day Bear!!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Because hell know what to do?  Oh my God, youre a genius!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh God, oh God, its sowed on though.:",
+        "target": "fear"
+    },
+    {
+        "input": "Give it. Give it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh!!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Oh, its just like a bloodbath in here today.:",
+        "target": "sad"
+    },
+    {
+        "input": "Please. This is so your fault.:",
+        "target": "mad"
+    },
+    {
+        "input": "How, how is this my fault?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Look, Carol never threw me out of a room before you came along.:",
+        "target": "mad"
+    },
+    {
+        "input": "Yeah? Well, there's a lot of things Carol never did before I came along.:",
+        "target": "mad"
+    },
+    {
+        "input": "Hey, hey, ok, all right, that's it!:",
+        "target": "mad"
+    },
+    {
+        "input": "Get in here.:",
+        "target": "mad"
+    },
+    {
+        "input": "Come on.:",
+        "target": "neutral"
+    },
+    {
+        "input": "My god, you guys, I don't believe you.:",
+        "target": "mad"
+    },
+    {
+        "input": "There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.:",
+        "target": "mad"
+    },
+    {
+        "input": "So just stop all the yelling, just stop it!:",
+        "target": "mad"
+    },
+    {
+        "input": "Yeah, Susan.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Don't make me do this again, I don't like my voice like this.:",
+        "target": "mad"
+    },
+    {
+        "input": "Ok, who wants to hear something ironic?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh! Here it is!  Ooh, Joey! Why did you sign it, \"Son of a bitch?\":",
+        "target": "powerful"
+    },
+    {
+        "input": "I didnt do that! Who wouldve done that?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Son of a bitch!:",
+        "target": "mad"
+    },
+    {
+        "input": "Okay, maybe ask this guy.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yknow sometimes the good ideas are just right in front of you, arent they?:",
+        "target": "joyful"
+    },
+    {
+        "input": "Okay, I know it sounds crazy, but I think it might work. Yknow? The only problem is, Carls acting is:",
+        "target": "neutral"
+    },
+    {
+        "input": "The:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah, hes the reason I didnt get that big:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hey, uh can I get a little piece of that cake?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Pizza!! We like Pizza!! Get out!!!:",
+        "target": "mad"
+    },
+    {
+        "input": "Hey Monica, theres a customer who wants to complement the chef, should I let him in?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Sure, I love this part!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Come on in.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Really? In the moment, I really wanted to kiss you too. In the moment.:",
+        "target": "joyful"
+    },
+    {
+        "input": "In the moment, yeah.:",
+        "target": "neutral"
+    },
+    {
+        "input": "But only in the moment. So do ya wanna kiss again?:",
+        "target": "joyful"
+    },
+    {
+        "input": "Sure, New Years Eve is only two weeks away. Can you wait?:",
+        "target": "neutral"
+    },
+    {
+        "input": "No.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Me neither.:",
+        "target": "neutral"
+    },
+    {
+        "input": "3, 2,:",
+        "target": "neutral"
+    },
+    {
+        "input": "Joey, you dont have to count down every time we kiss.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Alright. Phoebe?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay, okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yeah, see.. you took mine. Chandler, what about you?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.:",
+        "target": "neutral"
+    },
+    {
+        "input": "See, there's always one guy.  \"If I had a wish, I'd wish for three more wishes.\":",
+        "target": "disgust"
+    },
+    {
+        "input": "Hey Joey. Hi. Hey, buddy.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hey, Joey, what would you do if you were omnipotent?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Probably kill myself!:",
+        "target": "sad"
+    },
+    {
+        "input": "..Excuse me?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Hey, if Little Joey's dead, then I got no reason to live!:",
+        "target": "sad"
+    },
+    {
+        "input": "Joey, uh-:",
+        "target": "powerful"
+    },
+    {
+        "input": "You:",
+        "target": "neutral"
+    },
+    {
+        "input": "Im sorry.:",
+        "target": "sad"
+    },
+    {
+        "input": "Joey, onstage!:",
+        "target": "mad"
+    },
+    {
+        "input": "Well can you at least stay to the end of the play?:",
+        "target": "sad"
+    },
+    {
+        "input": "I mean, Ill go to the airport with ya, I-I wanna say good bye.:",
+        "target": "sad"
+    },
+    {
+        "input": "Where are you Vic?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Flights in an hour. I-I gotta go.:",
+        "target": "sad"
+    },
+    {
+        "input": "Vic! Vic!:",
+        "target": "mad"
+    },
+    {
+        "input": "In a minute!!:",
+        "target": "mad"
+    },
+    {
+        "input": "So this is it? Victor?:",
+        "target": "sad"
+    },
+    {
+        "input": "Yeah, I guess it is.:",
+        "target": "sad"
+    },
+    {
+        "input": "Listen, I ah, I gotta say good bye, and-and I gotta say it quick cause this is killing me.:",
+        "target": "sad"
+    },
+    {
+        "input": "One thing you gotta know, is that I will never forget you.:",
+        "target": "sad"
+    },
+    {
+        "input": "But, youve got things you have to do now, and so do I.:",
+        "target": "sad"
+    },
+    {
+        "input": "And so Im gonna get on this spaceship,  and Im gonna go to Blargon 7 in search of alternative fuels.:",
+        "target": "sad"
+    },
+    {
+        "input": "But when I return, 200 years from now, youll be long gone.:",
+        "target": "sad"
+    },
+    {
+        "input": "But I wont have aged at all.:",
+        "target": "neutral"
+    },
+    {
+        "input": "So you tell your great-great-granddaughter to look me up, because Adrienne, baby, Im gonna want to meet her.:",
+        "target": "neutral"
+    },
+    {
+        "input": "So long, Vic!:",
+        "target": "sad"
+    },
+    {
+        "input": "Nooo Way! The most romantic song ever is:",
+        "target": "neutral"
+    },
+    {
+        "input": "See, I-I think that one that Elton John wrote for, um, that guy on:",
+        "target": "neutral"
+    },
+    {
+        "input": "What song was that, Pheebs?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hi Monica!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey Mon!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey Mon!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh my God, has she slept at all?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Nope.:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, it's been three nights in a row.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, okay that explains it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum.:",
+        "target": "neutral"
+    },
+    {
+        "input": "But then I realized where would a mouse or a opossum get the money to make the phone call.:",
+        "target": "joyful"
+    },
+    {
+        "input": "So uh, man, are you gonna go to the play with me tonight?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yknow what, I dont know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.:",
+        "target": "disgust"
+    },
+    {
+        "input": "Yeah, I know but:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh no-no-no, Im there.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hey!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Hey Mon! Want some pancakes?:",
+        "target": "joyful"
+    },
+    {
+        "input": "You made pancakes?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yep! Grab a plate.:",
+        "target": "joyful"
+    },
+    {
+        "input": "No-no, stay right there.  Gettin closer.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay, okay, but dont worry, because we also have cereals, muffins, waffles,:",
+        "target": "neutral"
+    },
+    {
+        "input": "Listen also were uh, were watching the game here Saturday night, if people want to come over.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh yeah!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yes, if the foxhole was lined with sandwiches.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah, hero sandwiches.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well you all know that I'm a pacifist so I'm not interested in war in any way.:",
+        "target": "neutral"
+    },
+    {
+        "input": "When the revolution comes, I will have to destroy you all.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Not you Joey.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh my good God.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Look, you have done enough! Okay? You have to stop this now.:",
+        "target": "mad"
+    },
+    {
+        "input": "I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh, the mixed tape.:",
+        "target": "neutral"
+    },
+    {
+        "input": "The Way You Look Tonight:",
+        "target": "joyful"
+    },
+    {
+        "input": "You are just the sweetest.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey, guess what Im doing tonight.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Im checking out the restaurant with Pete.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ohh, Monica, I am so excited for you.:",
+        "target": "joyful"
+    },
+    {
+        "input": "So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ooh, actually Ive been making a list of all the women I know who might be into doing this!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh.  Wow!  Huh.  Boy!  Well, someones been doing their homework.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, I know.  Yknow, just-just talking about it is getting me kinda:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, me too.:",
+        "target": "neutral"
+    },
+    {
+        "input": "and then, we couldve gone from the ceremony to the reception with you in the sidecar!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Ross, it just wouldnt have been feasible.:",
+        "target": "neutral"
+    },
+    {
+        "input": "But having a dove place the ring on your finger wouldve been no problem?:",
+        "target": "mad"
+    },
+    {
+        "input": "It was really fun being married to you tonight.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yeah! And! And, it was the easiest 400 bucks Ive ever made.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Okay Ross, can I uh, can I ask you something?:",
+        "target": "sad"
+    },
+    {
+        "input": "Yeah.:",
+        "target": "neutral"
+    },
+    {
+        "input": "That proposal, at the planetarium:",
+        "target": "neutral"
+    },
+    {
+        "input": "I know, I know it was stupid.:",
+        "target": "sad"
+    },
+    {
+        "input": "Are you kidding?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "With the, with the lilies, and-and the song, and the stars!:",
+        "target": "joyful"
+    },
+    {
+        "input": "It wasreally wonderful!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Did you just make that up?:",
+        "target": "powerful"
+    },
+    {
+        "input": "No, actually I thought about it when, when we were going out.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Its how I imagined I uh, I would ask you to marry me.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, that wouldve been very hard to say no too.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Its a good thing I didnt do it, because it sounds like it wouldve been a very expensive wedding.  Okay, good night:",
+        "target": "neutral"
+    },
+    {
+        "input": "Goodnight:",
+        "target": "neutral"
+    },
+    {
+        "input": "Even if the sidecar had a windscreen so your hair wouldnt get messed up?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I will think about it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Thats all Im askin:",
+        "target": "neutral"
+    },
+    {
+        "input": "You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldnt feel bad!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Well actually, I-I didnt eat mine. Its still in the bathroom.:",
+        "target": "joyful"
+    },
+    {
+        "input": "No it isnt, I ate that.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well we left ours in Monicas bedroom.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Nope, got it and I got yours  too.:",
+        "target": "neutral"
+    },
+    {
+        "input": "And thats Im so glad theres no problem.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Thats fine, actually Im on the hiring committee, so therell be at least one friendly face.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ohh! Thats great!:",
+        "target": "joyful"
+    },
+    {
+        "input": "You know, Junior Miss is where I started. Oh, I had to sleep with the:",
+        "target": "neutral"
+    },
+    {
+        "input": "Really?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "No-ho-ho!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yeah.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I mean, no-no-no-no-no, dont you worry, Im sure with your qualifications you wont need to sleep with some guy to get that job.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Although, I might need some convincing.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, I, umm:",
+        "target": "fear"
+    },
+    {
+        "input": "Kidding! God, I feel wild today!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh my God! Chandler just left though!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yeah but, maybe its not what we think. Maybe its tell Monica Im sorry Idrank the last of the milk.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Or maybe he-he was writing to tell her that-that hes changed his name, yknow? Tell Monica Im sorry.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I think it means he freaked out and left!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Dont be so negative! Good God! Isnt it possible that Sorry is sitting in there  right now?!:",
+        "target": "mad"
+    },
+    {
+        "input": "Okay. Phoebe, I-I think Ross is right. What are we gonna do?:",
+        "target": "sad"
+    },
+    {
+        "input": "LookOkay, Im just gonnaIm gonna have to go find him and bring him back!:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay?:",
+        "target": "neutral"
+    },
+    {
+        "input": "You-you make sure Monica does not find out, okay?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I will, I will find him.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hey!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hi! Hey!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Do you guys know any cute guys?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, of course I do! My good friend Joey over here.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh, Im sorry. Thank you Chandler.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Anyway, theres this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go:",
+        "target": "neutral"
+    },
+    {
+        "input": "Whats the charity?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I dont know, something either trees or diseaseRalph mumbles a lot.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Does Ralph mumble when youre not paying attention?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah! Its weird. But the thing is need to find a date.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Well, what kind of guy are you looking for?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hey!:",
+        "target": "joyful"
+    },
+    {
+        "input": "What are you guys doing later?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, Rachel and I have appointments to get our hair cut.:",
+        "target": "neutral"
+    },
+    {
+        "input": "We do?:",
+        "target": "powerful"
+    },
+    {
+        "input": "I want to see what he wants first.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I just found out that Elizabeths dad wants to meet me.:",
+        "target": "sad"
+    },
+    {
+        "input": "Wait a minute, hold the phone! Youre not Elizabeths dad?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Come on guys, I-I really want this guy to like me.:",
+        "target": "fear"
+    },
+    {
+        "input": "It-it would really help me out if you guys were here to make me look good.:",
+        "target": "sad"
+    },
+    {
+        "input": "Of course well help! Yeah! Well be here!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Thanks!:",
+        "target": "joyful"
+    },
+    {
+        "input": "We know how tough those parent/teacher conferences can be.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, hi! How are you doing?:",
+        "target": "joyful"
+    },
+    {
+        "input": "I'm okay. I gotta go down to the police station and look at mug shots.:",
+        "target": "sad"
+    },
+    {
+        "input": "Thanks for having me over, you guys.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Tag?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Y-You're going?:",
+        "target": "joyful"
+    },
+    {
+        "input": "Uh we didn't, uh we didn't get the chance to talk.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Uh, so, where did you say you're from again?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Colorado.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ah, what good are you.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Look, um, I think we should talk about what happened on the terrace.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ah, I-I never should have said what I said.:",
+        "target": "sad"
+    },
+    {
+        "input": "Ityknow what?:",
+        "target": "neutral"
+    },
+    {
+        "input": "It just doesn't matter how I feel.:",
+        "target": "sad"
+    },
+    {
+        "input": "I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?:",
+        "target": "sad"
+    },
+    {
+        "input": "Um, I'm not.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, god, I knew it, that I freaked you out.:",
+        "target": "sad"
+    },
+    {
+        "input": "No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.:",
+        "target": "sad"
+    },
+    {
+        "input": "Really?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yeah, so, please don't fire me for doing this.:",
+        "target": "sad"
+    },
+    {
+        "input": "Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!:",
+        "target": "mad"
+    },
+    {
+        "input": "See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Pass it! Pass it!:",
+        "target": "joyful"
+    },
+    {
+        "input": "He's open!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Shoot! Shoot! Shoot!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey, look, we're on that TV thing!:",
+        "target": "powerful"
+    },
+    {
+        "input": "I am so psyched I kept this chair for myself!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yeah, me too.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah? Wow! Yknow, that this thing has speakers in the headrest!:",
+        "target": "powerful"
+    },
+    {
+        "input": "No. Really?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yeah! You can hook it up to your TV:",
+        "target": "joyful"
+    },
+    {
+        "input": "My chair heals itself.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?:",
+        "target": "mad"
+    },
+    {
+        "input": "Yes! Yes, I did.:",
+        "target": "sad"
+    },
+    {
+        "input": "Then do Iceberg!:",
+        "target": "mad"
+    },
+    {
+        "input": "G-sharp.:",
+        "target": "neutral"
+    },
+    {
+        "input": "G:",
+        "target": "neutral"
+    },
+    {
+        "input": "What?! I didn't touch a guitar!:",
+        "target": "powerful"
+    },
+    {
+        "input": "No, but you're questioning my method!:",
+        "target": "mad"
+    },
+    {
+        "input": "No, I'm not questioning it, I'm saying it's stupid!  What?!:",
+        "target": "mad"
+    },
+    {
+        "input": "Thank you.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Y'know none of my other student thought I was stupid.:",
+        "target": "mad"
+    },
+    {
+        "input": "Your other student, was you!:",
+        "target": "mad"
+    },
+    {
+        "input": "Yeah, well, y'know maybe you just need to try a little harder!:",
+        "target": "mad"
+    },
+    {
+        "input": "Look, maybe I need to try a real teacher!:",
+        "target": "mad"
+    },
+    {
+        "input": "Right here!:",
+        "target": "mad"
+    },
+    {
+        "input": "Here!:",
+        "target": "mad"
+    },
+    {
+        "input": "Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and:",
+        "target": "neutral"
+    },
+    {
+        "input": "Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play:",
+        "target": "mad"
+    },
+    {
+        "input": "\"Baddest man in the whole damn town.\":",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, fine! Take his side!:",
+        "target": "mad"
+    },
+    {
+        "input": "And shame on you! You should know better, Joey needs to work.  Now come on!:",
+        "target": "mad"
+    },
+    {
+        "input": "Hey!:",
+        "target": "mad"
+    },
+    {
+        "input": "No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!:",
+        "target": "mad"
+    },
+    {
+        "input": "Hi!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hi.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hi.  Umm, I think theres something that we really need to talk about.:",
+        "target": "joyful"
+    },
+    {
+        "input": "I think we do. Why dont we go inside?  Look uh, I know why youre here.:",
+        "target": "sad"
+    },
+    {
+        "input": "You do?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.  Uh, Ross and Rachel. Rachel and Ross. Thats been one heck of a see-saw hasnt it?:",
+        "target": "neutral"
+    },
+    {
+        "input": "What?:",
+        "target": "powerful"
+    },
+    {
+        "input": "I mean look, that-that one night we had was fun andand certainly passionate, but dont you think its better if we just stayed friends?:",
+        "target": "sad"
+    },
+    {
+        "input": "Seriously. What?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yknow what?:",
+        "target": "neutral"
+    },
+    {
+        "input": "If you want to, we can do it one more time.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I mean Id-Id be okay with that.:",
+        "target": "neutral"
+    },
+    {
+        "input": "In fact, I have some time right now.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay, yknow what? Can I, can I talk now?:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh sure.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Im pregnant.  Ross?  Ross?  Okay, whenever youre ready.  And youre the father by the waybut you got that:",
+        "target": "mad"
+    },
+    {
+        "input": "We should defiantly play football more often. Maybe theres a like league we could join or something.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I know!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yes! Wow, well, that-that was easy. Okay, you-you go.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay, you know, you know when your in bed, with a woman.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hmph.:",
+        "target": "neutral"
+    },
+    {
+        "input": "And, ah, you know, your fooling around with her.:",
+        "target": "joyful"
+    },
+    {
+        "input": "And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....:",
+        "target": "joyful"
+    },
+    {
+        "input": "With the belly-button ring? Oh, muhawa!:",
+        "target": "joyful"
+    },
+    {
+        "input": "I know, And then all of the sudden your Mom pops into your head.:",
+        "target": "mad"
+    },
+    {
+        "input": "And your like 'Mom, get outta here!':",
+        "target": "mad"
+    },
+    {
+        "input": "You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.:",
+        "target": "mad"
+    },
+    {
+        "input": "So it's kinda like, you're, you know.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You know.... You don't know!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?:",
+        "target": "disgust"
+    },
+    {
+        "input": "You said...:",
+        "target": "neutral"
+    },
+    {
+        "input": "I said ':",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Look at Emma!:",
+        "target": "powerful"
+    },
+    {
+        "input": "I just cant decide who she looks more alike, you or Rachel?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh what are you kidding? Shes gorgeous, its all Rachel.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Im sorry, for the last time, why arent you two together again?:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, I know.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I know, because youre not in that place.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Which would be fine, except you totally are.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Itsits complicated okay?:",
+        "target": "sad"
+    },
+    {
+        "input": "Yeah thats true. Yeah, you love her. You always have. You have a child together. There is no right answer.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Look, weve been together.:",
+        "target": "sad"
+    },
+    {
+        "input": "Okay?:",
+        "target": "neutral"
+    },
+    {
+        "input": "And then apart, and then together, and then apart, and now we have a baby.:",
+        "target": "sad"
+    },
+    {
+        "input": "Its just if-if we got together again and it didnt work outI could never do that to Emma.:",
+        "target": "sad"
+    },
+    {
+        "input": "I mean she-she thinking everything Oh thatsnow me.:",
+        "target": "sad"
+    },
+    {
+        "input": "What do they put something in the water in this place?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Since Rachel and I were doing really, were doing really well right now.:",
+        "target": "sad"
+    },
+    {
+        "input": "I know. I know. I know. I know, and if you try to make it more you might wreck it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah, exactly.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Right.  Or you might get everything youve wanted since you were fifteen.:",
+        "target": "neutral"
+    },
+    {
+        "input": "God. I forgot how much I love driving. I have:",
+        "target": "joyful"
+    },
+    {
+        "input": "You dont have a:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh Ross youre so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax:",
+        "target": "neutral"
+    },
+    {
+        "input": "What-what are you doing?! Are youOkay thats not funny! Just stop horsing around!:",
+        "target": "mad"
+    },
+    {
+        "input": "I am not horsing around, okay? I am Porsching around.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Uh-oh.:",
+        "target": "fear"
+    },
+    {
+        "input": "Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Really? You think so?:",
+        "target": "fear"
+    },
+    {
+        "input": "I was talking to myself! Youre going down!:",
+        "target": "mad"
+    },
+    {
+        "input": "Hey honey! I missed you today!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh, yeah?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yeah.  What d'you wanna do tonight?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, well... Maybe we could...:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ok, trying to turn me on by making a mess?:",
+        "target": "joyful"
+    },
+    {
+        "input": "Know your audience!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank.:",
+        "target": "neutral"
+    },
+    {
+        "input": "We really need to take those tests?:",
+        "target": "sad"
+    },
+    {
+        "input": "Honey, we've been trying to have a baby for over a year.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I think    it's a good idea to find out if everything's ok. Just a few routine tests.:",
+        "target": "neutral"
+    },
+    {
+        "input": "But I don't wanna do it in a cup!:",
+        "target": "sad"
+    },
+    {
+        "input": "Oh, hi Max! Hey, do you know everybody?:",
+        "target": "neutral"
+    },
+    {
+        "input": "No. Have you seen David?:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, no, he hasn't been around.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, if you see him, tell him to pack his bags. We are going to Minsk.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Minsk?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Minsk. It's in Russia.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I know where Minsk is.:",
+        "target": "neutral"
+    },
+    {
+        "input": "We got the grant. Three years, all expenses paid.:",
+        "target": "joyful"
+    },
+    {
+        "input": "So when, when do you leave?:",
+        "target": "neutral"
+    },
+    {
+        "input": "January first:",
+        "target": "neutral"
+    },
+    {
+        "input": "You wanted to see me Professor Geller?:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yes. Yes! Please, come in.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oo-oo!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Pretty great! Except I did get a little attitude from the robot.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Damn those robots, theyre supposed to be our:",
+        "target": "mad"
+    },
+    {
+        "input": "Anyway, it wasnt the robot, it was the guy who controls him.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah, he doesnt like me.:",
+        "target": "mad"
+    },
+    {
+        "input": "He had C.H.E.E.S.E.:",
+        "target": "neutral"
+    },
+    {
+        "input": "knock over the sandwich right when I was reaching for one!:",
+        "target": "mad"
+    },
+    {
+        "input": "Ohh!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Well, why dont you just get him fired?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I may have to, I hate to do it, but Im the star!:",
+        "target": "mad"
+    },
+    {
+        "input": "Yknow?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Theres a limit to how many sandwiches I can eat off the floor.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Excuse me.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Joey Tribbiani.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Joe! Im glad I found ya, I got an audition for ya!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Wow!:",
+        "target": "powerful"
+    },
+    {
+        "input": "The thing is its kinda on the Q.T.:",
+        "target": "neutral"
+    },
+    {
+        "input": "The actor who has the part doesnt know he might be fired.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Its the lead in a series, Mac and C.H.E.E.S.E.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Im the lead in Mac and C.H.E.E.S.E.!!:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh good God! If you want a baby so bad just go steal it!:",
+        "target": "mad"
+    },
+    {
+        "input": "What is going on with you? Since when are you so crazy about babies?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Im not crazy about babies. Im crazy about us.:",
+        "target": "joyful"
+    },
+    {
+        "input": "What?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Look, weve always talked about having babies someday.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Im not saying it has to be right now, but Im starting to think that we can handle it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Were good.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Were really good.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh, did you catch him?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Wh-what did he say?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "He said, \"Nice to meet you Glenda.\"  Well, obviously I couldn't give him my real name?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Why?! Why not?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Come on, you saw the way he ran out of here!:",
+        "target": "sad"
+    },
+    {
+        "input": "He's gonna stick around and talk to the daughter he abandoned!:",
+        "target": "sad"
+    },
+    {
+        "input": "What did you say to him?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh yeah, sure.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay, in about ten seconds youre gonna see him kiss me.:",
+        "target": "joyful"
+    },
+    {
+        "input": "And in about five seconds youre gonna see why.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ross did I ever tell you about the time that I went backpacking through Western Europe?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay, get ready to see some beggin!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh, you came on to Ross!:",
+        "target": "powerful"
+    },
+    {
+        "input": "What?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Now Im so happy.:",
+        "target": "joyful"
+    },
+    {
+        "input": "What are you talking about?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "You used the Europe story!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Thats the magic story you use when you wanna have sex!:",
+        "target": "mad"
+    },
+    {
+        "input": "How do you know about that story?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "How do:",
+        "target": "neutral"
+    },
+    {
+        "input": "I heard it from my friend Irene who heard it from some guy!:",
+        "target": "neutral"
+    },
+    {
+        "input": "Some guy!!:",
+        "target": "powerful"
+    },
+    {
+        "input": "No. No, she told me his name was Ken Adams.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ken Adams!!:",
+        "target": "powerful"
+    },
+    {
+        "input": "How we doing, you guys ready?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Some days it's all I can think about.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hi, sorry I'm late, I couldn't find my bearings.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh... ok, fine.:",
+        "target": "neutral"
+    },
+    {
+        "input": "But... ehm...:",
+        "target": "neutral"
+    },
+    {
+        "input": "I just have one question for you,    ehm...:",
+        "target": "neutral"
+    },
+    {
+        "input": "When we exit should we walk, or run, or prance,    or stroll...:",
+        "target": "neutral"
+    },
+    {
+        "input": "Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!:",
+        "target": "joyful"
+    },
+    {
+        "input": "I cant believe this! How long as this been going on?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Well umm, Alexandra has been:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, it has a name?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Phoebe, dont get upset!:",
+        "target": "sad"
+    },
+    {
+        "input": "OkayOop! Too late! Im leaving! Come on Chandler lets go!:",
+        "target": "mad"
+    },
+    {
+        "input": "Well, Phoebe I thought IdYeah, what the hell.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ben!:",
+        "target": "fear"
+    },
+    {
+        "input": "Oh, that's good. Maybe he'll hear you and pull the cord.:",
+        "target": "mad"
+    },
+    {
+        "input": "Stop the bus! Wait! Wait! Wait!:",
+        "target": "fear"
+    },
+    {
+        "input": "Are you sure he didn't break it because it really hurts?:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, it's just a good bone bruise. And, right here  is the puncture wound from your ring.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, I'm sorry, I'm really sorry.:",
+        "target": "sad"
+    },
+    {
+        "input": "Sorry.:",
+        "target": "sad"
+    },
+    {
+        "input": "Sorry!:",
+        "target": "sad"
+    },
+    {
+        "input": "I got my s's back!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Which we can celebrate later.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Celebrate.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Rachel, how did this happen?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I don't know, I just kinda ran into him last night.:",
+        "target": "fear"
+    },
+    {
+        "input": "Where?:",
+        "target": "neutral"
+    },
+    {
+        "input": "At his apartment. Is this juice?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh God, I know I'm a pathetic loser.:",
+        "target": "sad"
+    },
+    {
+        "input": "I licked my arm, what?:",
+        "target": "powerful"
+    },
+    {
+        "input": "It's breast milk.:",
+        "target": "neutral"
+    },
+    {
+        "input": "So?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Phoebe, that is juice, squeezed from a person.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What is the big deal?:",
+        "target": "mad"
+    },
+    {
+        "input": "What did you just do?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Ok, would people stop drinking the breast milk?:",
+        "target": "disgust"
+    },
+    {
+        "input": "You won't even taste it?:",
+        "target": "neutral"
+    },
+    {
+        "input": "No!:",
+        "target": "disgust"
+    },
+    {
+        "input": "Not even if you just pretend that it's milk?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Not even if Carol's breast had a picture of a missing child on it.:",
+        "target": "disgust"
+    },
+    {
+        "input": "Aww!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Hey Pheebs, could you please not put your feet up on my newold sheet?:",
+        "target": "disgust"
+    },
+    {
+        "input": "Oh sure!  Noo!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Ohh!!:",
+        "target": "powerful"
+    },
+    {
+        "input": "My apothecary table!!!:",
+        "target": "powerful"
+    },
+    {
+        "input": "What?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Noooooo!!:",
+        "target": "fear"
+    },
+    {
+        "input": "Ross, where did you get this?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Oh my God, Phoebe,:",
+        "target": "mad"
+    },
+    {
+        "input": "Wow! Oh my God, well if theyve ripped off our table ours must be much more than one and fifty dollars!:",
+        "target": "mad"
+    },
+    {
+        "input": "Well this doesnt even smell like opium.:",
+        "target": "disgust"
+    },
+    {
+        "input": "Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.:",
+        "target": "mad"
+    },
+    {
+        "input": "How is she?:",
+        "target": "sad"
+    },
+    {
+        "input": "It's too soon to tell. She's resting, which is a good sign.:",
+        "target": "neutral"
+    },
+    {
+        "input": "How's the hair?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I'm not gonna lie to you, Ross, it doesn't look good.:",
+        "target": "sad"
+    },
+    {
+        "input": "I put a clip on one side, which seems to have stopped the curling.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Can we see her?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Your hair looks too good, I think it would upset her. Ross, why don't you come on in.:",
+        "target": "sad"
+    },
+    {
+        "input": "How're you doing?:",
+        "target": "sad"
+    },
+    {
+        "input": "Of course the packaging does appeal to grown-ups and kids alike.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ross, you're being silly. I've tried it, it's no big deal. Just taste it.:",
+        "target": "joyful"
+    },
+    {
+        "input": "That would be no.:",
+        "target": "disgust"
+    },
+    {
+        "input": "Come on. It doesn't taste bad.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah, it's kinda sweet, sorta like, uh...:",
+        "target": "neutral"
+    },
+    {
+        "input": "Cantaloupe juice.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Exactly.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You've tasted it? You've tasted it.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Uh huh.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, you've tasted it.:",
+        "target": "mad"
+    },
+    {
+        "input": "You can keep saying it, but it won't stop being true.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Gimme the bottle.  Gimme the towel.:",
+        "target": "mad"
+    },
+    {
+        "input": "I still don't get why Greg and Jenny would give us a fake number.:",
+        "target": "mad"
+    },
+    {
+        "input": "Yknow, if they knew what they were doing they probably didnt give you real names either.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay, maybe people give out fake numbers, but they dont give out fake names.:",
+        "target": "mad"
+    },
+    {
+        "input": "Oh yeah?  Hi, Ken Adams, nice to meet you.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Regina Philange.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I still dont get it, we didnt do anything wrong.:",
+        "target": "powerful"
+    },
+    {
+        "input": "I know! Although, you did tell an awful lot of jokes.:",
+        "target": "mad"
+    },
+    {
+        "input": "I thought you said those jokes were funny. Joke! Joke! Joke!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Joke. Joke. Blah! Blah!:",
+        "target": "mad"
+    },
+    {
+        "input": "Well maybe it was all of your questions.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What about my questions?:",
+        "target": "neutral"
+    },
+    {
+        "input": "No, Im sorry. Its just my foot itches like crazy.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh, Ill get it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Wow! I usually get to know a girl a little better before I let her spoon me.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Relax, its not like were forking.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Look at it! Ohhh! Wallpapers a little faded, thats okay. Carpets a little loose. Hardwood floors!!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hello.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh! Ooh! Oh Monica! Its so beautiful.:",
+        "target": "joyful"
+    },
+    {
+        "input": "I know!!!:",
+        "target": "joyful"
+    },
+    {
+        "input": "So, Im here, ready to play.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Okay.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I brought a bunch of stuff for the house, so check it out. Ha-ha.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Whats this?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Thats a dog, every house should have a dog.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Not one that can pee on the roof.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Well, maybe its so big because the house was built on radioactive waste.:",
+        "target": "joyful"
+    },
+    {
+        "input": "And is this in case the house sneezes?:",
+        "target": "powerful"
+    },
+    {
+        "input": "No, no, thats the ghost for the attic.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I dont want a ghost.:",
+        "target": "fear"
+    },
+    {
+        "input": "Well, nobody wants a ghost. But youve got one, because the house is sitting on an ancient Indian burial ground.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.:",
+        "target": "powerful"
+    },
+    {
+        "input": "Okay, obviously you dont know much about the U.S. government.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hey!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Hello.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I need to talk to you!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Sure, whats up?:",
+        "target": "neutral"
+    },
+    {
+        "input": "All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.:",
+        "target": "mad"
+    },
+    {
+        "input": "Please, I'm not going for anything.:",
+        "target": "disgust"
+    },
+    {
+        "input": "Well, if you don't, I will.:",
+        "target": "mad"
+    },
+    {
+        "input": "Would you please go?:",
+        "target": "joyful"
+    },
+    {
+        "input": "I would!:",
+        "target": "mad"
+    },
+    {
+        "input": "Hey, guys, guys, did you see my new, china cabinet?!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Uh-huh.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Watch, watch.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Ooohhhh!!:",
+        "target": "powerful"
+    },
+    {
+        "input": "And, and!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Ahhhh!!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Hey, my Fathers house does that!:",
+        "target": "powerful"
+    },
+    {
+        "input": "O-o-o-okay, how did it go? Tell me everything.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, the movie was great, dinner was great, and theres nothing like a cool, crisp New York evening.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay. Its Emma.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Emma!  See? I dont want it.:",
+        "target": "sad"
+    },
+    {
+        "input": "Take it.:",
+        "target": "neutral"
+    },
+    {
+        "input": "What?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Its clearly an Emma.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh honey, but you love that name.:",
+        "target": "sad"
+    },
+    {
+        "input": "Yeah, but I love you more.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Besides yknow, nothing goes with Bing.:",
+        "target": "neutral"
+    },
+    {
+        "input": "So Im screwed.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh-oh, I'm a duck! I go, \"Quack, quack!\" Im happy all the time!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Nice try.:",
+        "target": "sad"
+    },
+    {
+        "input": "Wait, wait, wait!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Look, Monica:",
+        "target": "neutral"
+    },
+    {
+        "input": "Look!:",
+        "target": "powerful"
+    },
+    {
+        "input": "This is not going to work.:",
+        "target": "mad"
+    },
+    {
+        "input": "I bet this will work!:",
+        "target": "joyful"
+    },
+    {
+        "input": "You are so great! I love you!:",
+        "target": "joyful"
+    },
+    {
+        "input": "What?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Nothing! I said, I said \"You're so great\" and then I just, I just stopped talking!:",
+        "target": "fear"
+    },
+    {
+        "input": "You said you loved me! I can't believe this!:",
+        "target": "powerful"
+    },
+    {
+        "input": "No I didn't!:",
+        "target": "fear"
+    },
+    {
+        "input": "Yes, you did!:",
+        "target": "powerful"
+    },
+    {
+        "input": "No I didn't!:",
+        "target": "fear"
+    },
+    {
+        "input": "You love me!:",
+        "target": "joyful"
+    },
+    {
+        "input": "No I don't! Stop it! Stop it! Stop it! Stop it!:",
+        "target": "mad"
+    },
+    {
+        "input": "Hello Greg?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Hi, this is Monica from the plane?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Listen, the number that you gave me 853-5   That is their old number!:",
+        "target": "mad"
+    },
+    {
+        "input": "Jennys been giving it out since they moved!:",
+        "target": "mad"
+    },
+    {
+        "input": "Jenny! That is so Jenny!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hey listen umm, how would you like to get together?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Say next Saturday?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay, how about Sunday?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Okay umm, the week after that?:",
+        "target": "joyful"
+    },
+    {
+        "input": "The week after that?:",
+        "target": "joyful"
+    },
+    {
+        "input": "Yknow what Greg?:",
+        "target": "mad"
+    },
+    {
+        "input": "We are good, interesting, funny people with:",
+        "target": "mad"
+    },
+    {
+        "input": "Hey Chandler! Yknow that girl you went to college with who-who became a movie director?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh yeah, Dana Keystone. She was in my Movement class.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Whats a Movement class?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Its Chandlers way of pretending he didnt take mime.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Oh well listen, anyway shes directing the new Al Pacino movie. You gotta get me an audition!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Oh, I dont know man. I havent talked to her in like ten years.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I am.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Joey, what are you talking about? Youre a terrific actor.:",
+        "target": "neutral"
+    },
+    {
+        "input": "You really think so?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Ugh, how can you even ask that question?!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Ross! Get a shot of this. (He's carrying an issue of the:",
+        "target": "powerful"
+    },
+    {
+        "input": "Oh, okay, I'm having another one!:",
+        "target": "fear"
+    },
+    {
+        "input": "This one doesn't hurt eitherOoh, yes it does!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Ow!:",
+        "target": "mad"
+    },
+    {
+        "input": "Ow!:",
+        "target": "mad"
+    },
+    {
+        "input": "Ow!:",
+        "target": "mad"
+    },
+    {
+        "input": "Ow!:",
+        "target": "mad"
+    },
+    {
+        "input": "Ooh!:",
+        "target": "powerful"
+    },
+    {
+        "input": "Oh, I was kinda hoping that was it.:",
+        "target": "sad"
+    },
+    {
+        "input": "Hey, where are Monica and Rachel anyway?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah, I love you. Okay, bye!  Hi!:",
+        "target": "joyful"
+    },
+    {
+        "input": "Hi!:",
+        "target": "joyful"
+    },
+    {
+        "input": "That was Alice's mom, she said she left five hours ago. She should be here by now!:",
+        "target": "fear"
+    },
+    {
+        "input": "Oh, honey, dont worry. She's gonna make it on time.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I guess I set up the video camera to try and entice Joey.:",
+        "target": "neutral"
+    },
+    {
+        "input": "But sadly I could not be enticed.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!:",
+        "target": "disgust"
+    },
+    {
+        "input": "I'm Monica. I'm disgusting. I stalk guys and keep their underpants.:",
+        "target": "sad"
+    },
+    {
+        "input": "Well, I think we've all learned something about who's disgusting and who's not.:",
+        "target": "mad"
+    },
+    {
+        "input": "Eh?:",
+        "target": "neutral"
+    },
+    {
+        "input": "All right, now, I'm going to get back to my bucket.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I'm only eating the skin, so the chicken's up for grabs.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Ohh, okay, they gave you the old time pricing.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yeah.:",
+        "target": "neutral"
+    },
+    {
+        "input": "Well, what period is it from?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Uh, its from yore. Like the days of yore. Yknow?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yes, yes I do.:",
+        "target": "neutral"
+    },
+    {
+        "input": "God, oh its just perfect!:",
+        "target": "joyful"
+    },
+    {
+        "input": "I bet it has a great story behind it too.:",
+        "target": "joyful"
+    },
+    {
+        "input": "Did they tell you anything?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Yes! That I know, this is from White Plains.:",
+        "target": "joyful"
+    },
+    {
+        "input": "White Plains. Oh, it sounds like such a magical place.:",
+        "target": "joyful"
+    },
+    {
+        "input": "So, you still dont think Im boyfriend material?:",
+        "target": "mad"
+    },
+    {
+        "input": "Huh?:",
+        "target": "neutral"
+    },
+    {
+        "input": "I saw you checking me out during the game last night.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I, umm, shut up!:",
+        "target": "mad"
+    },
+    {
+        "input": "Good-bye Phoebe and Ursula. Ill miss you. P.S. Your Mom lives in Montauk. You just wrote this!:",
+        "target": "sad"
+    },
+    {
+        "input": "Well, its pretty much the gist. Well, except for the poem. You read the poem, right?:",
+        "target": "neutral"
+    },
+    {
+        "input": "Noooo!!:",
+        "target": "sad"
+    },
+    {
+        "input": "All right, hang on!:",
+        "target": "neutral"
+    },
+    {
+        "input": "Rachel, its going to happen. Chandler is gonna move in here.:",
+        "target": "neutral"
+    },
+    {
+        "input": "But I:",
+        "target": "sad"
+    },
+    {
+        "input": "No-no, wait!:",
+        "target": "neutral"
+    },
+    {
+        "input": "Just let me finish, okay?:",
+        "target": "sad"
+    },
+    {
+        "input": "This isnt something that we just, we just impulsively decided in-in Vegas, this is something we both really want.:",
+        "target": "neutral"
+    },
+    {
+        "input": "And it:",
+        "target": "neutral"
+    },
+    {
+        "input": "It is? Really?:",
+        "target": "powerful"
+    },
+    {
+        "input": "Yeah, sweetie.:",
+        "target": "neutral"
+    },
+    {
+        "input": "I mean were not, were not gonna live together anymore?:",
+        "target": "sad"
+    },
+    {
+        "input": "No.:",
+        "target": "sad"
+    },
+    {
+        "input": "What? Oh my God! Im gonna miss you so much!:",
+        "target": "sad"
+    },
+    {
+        "input": "Im gonna miss you!:",
+        "target": "sad"
+    },
+    {
+        "input": "I mean its the end of an era!:",
+        "target": "sad"
+    },
+    {
+        "input": "I know!:",
+        "target": "sad"
+    }
+]
